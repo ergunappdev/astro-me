@@ -1,0 +1,9 @@
+# GitHub Pages (Jekyll). Bu klasör ergunappdev/astro-me reposunun kökü.
+# Kaynak: astro_me/legal — uygulama aynı dosyaları içine gömüyor ve
+# GitHub'daki güncel hâlini okuyor. Düzenleme yalnızca burada yapılmalı.
+title: Astro Me
+description: Doğum haritan, Luna ve Ruh Eşi
+lang: tr
+theme: jekyll-theme-primer
+exclude:
+  - README.md
