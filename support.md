@@ -1,33 +1,101 @@
 ---
-title: Destek
+title: Support
 ---
 
-# Destek
+# Support
 
-_Son güncelleme: 6 Ekim 2026_
+_Last updated: October 13, 2026_
 
-Bir sorun mu yaşıyorsun, bir önerin mi var? Bize yaz, en kısa sürede dönelim.
+Having a problem or have an idea? Write to us and we will get back to you as soon as we can, usually within 1–2 business days.
 
-## İletişim
+## Contact
 
-E-posta: ergun.app.dev@gmail.com
+Email: ergun.app.dev@gmail.com
 
-Uygulamanın içinden de yazabilirsin: Profil › Destek. Bu yol, sorununu bulmamız için hesap kimliğini mesaja kendiliğinden ekler.
+You can also write from inside the app: Profile › Support opens your mail app with a ready email. It automatically adds your account ID so we can find your account quickly. It never includes your name, birth details or messages.
 
-## Sık sorulanlar
+## Frequently asked questions
 
-### Doğum bilgilerimi nasıl değiştiririm?
+### Account and profile
 
-Profil › Profili Düzenle. Doğum tarihini, saatini ve yerini en fazla 3 kez değiştirebilirsin; değiştirince haritan yeniden hesaplanır.
+#### Do I need to create an account?
 
-### Hesabımı nasıl silerim?
+No. An anonymous account is created automatically when you start using the app. Sign in with Apple is needed only for social features: Soulmate, friends and posting in sign groups.
 
-Profil › Hesabımı Sil. Hesabın ve sunucudaki bütün verilerin kalıcı olarak silinir.
+#### How do I change my birth details?
 
-### Ruh Eşi'nde birini nasıl şikâyet ederim ya da engellerim?
+Go to Profile › Edit Profile. You can change your birth date, time and place up to 3 times; your chart is recalculated each time. If you have used all your changes and made a mistake, contact us.
 
-Sohbet ekranının sağ üstündeki menüden. Engellediklerini Profil › Engellenenler'de görebilir, engeli oradan kaldırabilirsin.
+#### I don't know my birth time. Can I still use the app?
 
-### Ruh Eşi'nde kartımı nasıl gizlerim?
+Yes. Your Sun and Moon signs and most readings work without a birth time. Your rising sign and houses need an exact time, so they are hidden or shown approximately.
 
-Profil › Ruh Eşi'nde görün anahtarını kapat. Eşleşmelerin ve sohbetlerin kalır.
+#### How do I delete my account?
+
+Go to Profile › Delete My Account. Your account and all your data on our servers are permanently deleted. This cannot be undone. Deleting your account does not cancel your Premium subscription; see below.
+
+### Premium and payments
+
+#### How do I cancel my subscription?
+
+On your iPhone go to Settings › [your name] › Subscriptions › Astro Me and tap Cancel Subscription. Cancel at least 24 hours before the end of the current period to avoid the next charge. You keep Premium until the end of the period you paid for.
+
+#### How do I get a refund?
+
+All payments are processed by Apple, so refunds are handled by Apple. Visit reportaproblem.apple.com, sign in with your Apple ID, choose the purchase and request a refund.
+
+#### I paid but Premium is not active / I changed phones.
+
+Open the Premium screen and tap Restore. Make sure you are signed in to the App Store with the Apple ID you used for the purchase. If it still does not work, write to us from Profile › Support.
+
+#### What do free users get?
+
+Most of the app is free, including general daily, weekly and monthly horoscopes, the basic birth chart, many tarot spreads, guides, lessons and quizzes. Some features have a free allowance, such as a few questions to Luna and Ask the Tarot. Premium unlocks personal readings and unlimited use.
+
+### Readings
+
+#### Why is my reading different from another app?
+
+Apps use different house systems, zodiac systems and interpretation styles, and personal readings depend on your exact birth time and place. Astro Me calculates planet positions astronomically and writes readings for your own chart.
+
+#### Are the readings accurate?
+
+Planet positions are precise, but readings are for entertainment and self-reflection, not facts or predictions. Please read our Disclaimer.
+
+### Soulmate and chats
+
+#### How do I report or block someone?
+
+Open the chat and tap the menu at the top right, then choose Report or Block. You can also report a single message by pressing and holding it. Reported people are blocked automatically, and we review every report within 24 hours.
+
+#### How do I unblock someone?
+
+Go to Profile › Blocked and remove the block.
+
+#### How do I hide my Soulmate card?
+
+Turn off the Show me in Soulmate switch in your profile. Your existing matches and chats stay.
+
+#### Why can't I join Soulmate?
+
+Soulmate is for users aged 18 and over, and it requires Sign in with Apple. Your age is calculated from your birth date.
+
+### Notifications
+
+#### How do I turn notifications on or off?
+
+Go to Profile › Account and preferences to turn each notification type on or off. To turn off all notifications, go to iPhone Settings › Notifications › Astro Me.
+
+### Privacy
+
+#### Where is my data?
+
+See Profile › Where is my data? in the app or read our Privacy Policy. Your profile photo and Moon Journal stay only on your phone. We do not sell your data or use it for advertising.
+
+#### Are my palm and coffee photos stored?
+
+No. They are sent to our AI provider only to generate your reading and are not stored on our servers.
+
+## Report a safety issue
+
+If someone is in immediate danger, call your local emergency number. To report a user, use Report in the app. For any other safety concern, email ergun.app.dev@gmail.com with "Safety" in the subject line.

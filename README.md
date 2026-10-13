@@ -1,7 +1,8 @@
-# Astro Me — yasal sayfalar
+# Astro Me — legal pages
 
-GitHub Pages ile yayınlanır: https://ergunappdev.github.io/astro-me/
+Published with GitHub Pages: https://ergunappdev.github.io/astro-me/
 
-Uygulama bu dosyaları içine gömüyor ve açıldığında buradaki güncel hâli
-okuyor (raw.githubusercontent.com). Metni değiştirmek için uygulama
-güncellemesi gerekmez.
+The English files in the root are the governing versions (these URLs go to
+App Store Connect). Turkish translations live in `tr/`. The app bundles both
+and, when opened, reads the current version from raw.githubusercontent.com
+based on the phone's language, so text changes do not need an app update.
