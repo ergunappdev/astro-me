@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # Privacy Policy
 
-_Last updated: October 13, 2026_
+_Last updated: October 14, 2026_
 
 When you use Astro Me, you trust us with personal information such as your birth details. This policy explains what we collect, why we collect it, who we share it with, how long we keep it and what rights you have. We do not sell your data, we do not use it for advertising and we do not track you across other apps or websites.
 
@@ -153,7 +153,7 @@ Send requests to ergun.app.dev@gmail.com. To help us verify your identity, we re
 
 ## 13. Children
 
-Astro Me is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate is open only to users aged 18 or older, calculated from the birth date. If you learn that a child under 13 has given us information, contact us and we will delete it.
+Astro Me is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate and sign groups are open only to users aged 18 or older, calculated from the birth date; users under 18 can message only friends they add by code. If you learn that a child under 13 has given us information, contact us and we will delete it.
 
 ## 14. Notifications
 

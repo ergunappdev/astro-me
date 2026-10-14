@@ -4,7 +4,7 @@ title: Destek
 
 # Destek
 
-_Son güncelleme: 13 Ekim 2026_
+_Son güncelleme: 14 Ekim 2026_
 
 Bir sorun mu yaşıyorsun, aklında bir fikir mi var? Bize yaz; genellikle 1–2 iş günü içinde, olabildiğince çabuk dönüyoruz.
 
@@ -76,9 +76,9 @@ Profil › Engellenenler'e git ve engeli kaldır.
 
 Profilindeki Ruh Eşi'nde görün anahtarını kapat. Mevcut eşleşmelerin ve sohbetlerin kalır.
 
-#### Ruh Eşi'ne neden katılamıyorum?
+#### Ruh Eşi'ne ya da burç gruplarına neden katılamıyorum?
 
-Ruh Eşi 18 yaş ve üzeri kullanıcılar içindir ve Apple ile giriş gerektirir. Yaşın doğum tarihinden hesaplanır.
+Ruh Eşi ve burç grupları, tanımadığın kişilerle konuştuğun için 18 yaş ve üzeri kullanıcılara açıktır. Ruh Eşi ayrıca Apple ile giriş gerektirir. Yaşın doğum tarihinden hesaplanır. 13–17 yaş arasındaki kullanıcılar, kodla eklediği arkadaşlarıyla yazışmak dahil diğer bütün özellikleri kullanabilir.
 
 ### Bildirimler
 

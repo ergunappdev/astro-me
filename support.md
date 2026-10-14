@@ -4,7 +4,7 @@ title: Support
 
 # Support
 
-_Last updated: October 13, 2026_
+_Last updated: October 14, 2026_
 
 Having a problem or have an idea? Write to us and we will get back to you as soon as we can, usually within 1–2 business days.
 
@@ -76,9 +76,9 @@ Go to Profile › Blocked and remove the block.
 
 Turn off the Show me in Soulmate switch in your profile. Your existing matches and chats stay.
 
-#### Why can't I join Soulmate?
+#### Why can't I join Soulmate or sign groups?
 
-Soulmate is for users aged 18 and over, and it requires Sign in with Apple. Your age is calculated from your birth date.
+Soulmate and sign groups are for users aged 18 and over, because they involve talking with people you don't know. Soulmate also requires Sign in with Apple. Your age is calculated from your birth date. Users aged 13 to 17 can use every other feature, including chatting with friends they add by code.
 
 ### Notifications
 

@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Kullanım Koşulları
 
-_Son güncelleme: 13 Ekim 2026_
+_Son güncelleme: 14 Ekim 2026_
 
 Bu Kullanım Koşulları ("Koşullar"), Astro Me mobil uygulamasını ("Astro Me", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
 
@@ -21,7 +21,7 @@ Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldıra
 ## 2. Astro Me'yi kimler kullanabilir
 
 - Astro Me'yi kullanmak için **en az 13 yaşında** olmalısın. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa ve sen bu yaşın altındaysan, ebeveyninin ya da yasal velinin iznine ihtiyacın vardır.
-- **Ruh Eşi yalnızca 18 yaş ve üzeri kullanıcılara açıktır.** Yaşın, verdiğin doğum tarihinden hesaplanır. Yaşı hakkında yanlış bilgi veren hesapları kapatırız.
+- **Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır,** çünkü bu bölümlerde tanımadığın kişilerle konuşursun. 13–17 yaş arasındaki kullanıcılar, kodla eklediği arkadaşlarıyla yazışmak dahil diğer bütün özellikleri kullanabilir. Yaşın, verdiğin doğum tarihinden hesaplanır. Yaşı hakkında yanlış bilgi veren hesapları kapatırız.
 - Kurallarımızı ihlal ettiği için hesabı kapatılan kişiler yeni hesap açamaz.
 - Sana uygulanan yasalar yasaklıyorsa uygulamayı kullanamazsın.
 

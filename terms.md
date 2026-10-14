@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use
 
-_Last updated: October 13, 2026_
+_Last updated: October 14, 2026_
 
 These Terms of Use ("Terms") govern your use of the Astro Me mobile app ("Astro Me", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
 
@@ -21,7 +21,7 @@ We may add, change or remove features to improve the service.
 ## 2. Who can use Astro Me
 
 - You must be **at least 13 years old** to use Astro Me. If your country sets a higher minimum age for digital services, you need the permission of a parent or legal guardian if you are below that age.
-- **Soulmate is open only to users aged 18 or older.** Your age is calculated from the birth date you provide. We close accounts that give false information about their age.
+- **Soulmate and sign groups are open only to users aged 18 or older**, because they involve talking with people you do not know. Users aged 13 to 17 can use every other feature, including chatting with friends they add by code. Your age is calculated from the birth date you provide. We close accounts that give false information about their age.
 - People whose accounts were closed for breaking our rules may not create a new account.
 - You may not use the app if doing so is prohibited by the laws that apply to you.
 
