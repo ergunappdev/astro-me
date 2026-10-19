@@ -6,21 +6,21 @@ title: Terms of Use
 
 _Last updated: October 14, 2026_
 
-These Terms of Use ("Terms") govern your use of the Astro Me mobile app ("Astro Me", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
+These Terms of Use ("Terms") govern your use of the AstroLuna mobile app ("AstroLuna", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
 
 Please read these sections carefully: Premium subscriptions (section 6), community rules (section 8) and limitation of liability (section 13).
 
 ## 1. The service
 
-Astro Me offers features such as birth chart calculation, daily, weekly, monthly and yearly horoscopes, transits, an astro calendar, tarot, numerology, Human Design, dream interpretation, palm and coffee reading, an AI assistant called Luna, astrology lessons and quizzes, sign groups, friends and Soulmate (meeting people based on astrological compatibility).
+AstroLuna offers features such as birth chart calculation, daily, weekly, monthly and yearly horoscopes, transits, an astro calendar, tarot, numerology, Human Design, dream interpretation, palm and coffee reading, an AI assistant called Luna, astrology lessons and quizzes, sign groups, friends and Soulmate (meeting people based on astrological compatibility).
 
 Content in the app is **for entertainment and self-reflection** and is not professional advice. See the Disclaimer for details.
 
 We may add, change or remove features to improve the service.
 
-## 2. Who can use Astro Me
+## 2. Who can use AstroLuna
 
-- You must be **at least 13 years old** to use Astro Me. If your country sets a higher minimum age for digital services, you need the permission of a parent or legal guardian if you are below that age.
+- You must be **at least 13 years old** to use AstroLuna. If your country sets a higher minimum age for digital services, you need the permission of a parent or legal guardian if you are below that age.
 - **Soulmate and sign groups are open only to users aged 18 or older**, because they involve talking with people you do not know. Users aged 13 to 17 can use every other feature, including chatting with friends they add by code. Your age is calculated from the birth date you provide. We close accounts that give false information about their age.
 - People whose accounts were closed for breaking our rules may not create a new account.
 - You may not use the app if doing so is prohibited by the laws that apply to you.
@@ -35,7 +35,7 @@ We may add, change or remove features to improve the service.
 
 ## 4. Free use and allowances
 
-Many features of Astro Me are free. Some are offered to free users in limited amounts, for example a few questions in total to Luna and Ask the Tarot, or a daily number of Soulmate likes. Free allowances are tied to the device; creating new accounts to renew them breaches these Terms. We may change the scope and number of free allowances.
+Many features of AstroLuna are free. Some are offered to free users in limited amounts, for example a few questions in total to Luna and Ask the Tarot, or a daily number of Soulmate likes. Free allowances are tied to the device; creating new accounts to renew them breaches these Terms. We may change the scope and number of free allowances.
 
 ## 5. Premium
 
@@ -57,7 +57,7 @@ To prevent abuse and excessive cost, AI features have reasonable daily limits ev
 
 ## 7. Apple and the App Store
 
-These Terms are between you and Astro Me, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+These Terms are between you and AstroLuna, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you. Apple has no obligation to provide maintenance or support for the app. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price, if any. To the maximum extent permitted by law, Apple has no other warranty obligation. Apple is not responsible for addressing claims relating to the app, including product liability claims, consumer protection claims or intellectual property infringement claims.
 
@@ -97,7 +97,7 @@ Luna's answers, personal readings, reports and dream, palm and coffee readings a
 
 ## 12. Intellectual property
 
-The app's design, software, images, texts, tarot and zodiac illustrations, logo and the name "Astro Me" belong to us or our licensors and are protected by law. We grant you a limited, non-transferable, revocable license to use the app for your personal, non-commercial use, as long as you follow these Terms. You may not copy, modify, distribute, sell or reverse engineer the app or its content. You may share the app's share cards on social media for personal use.
+The app's design, software, images, texts, tarot and zodiac illustrations, logo and the name "AstroLuna" belong to us or our licensors and are protected by law. We grant you a limited, non-transferable, revocable license to use the app for your personal, non-commercial use, as long as you follow these Terms. You may not copy, modify, distribute, sell or reverse engineer the app or its content. You may share the app's share cards on social media for personal use.
 
 Location data comes from GeoNames (licensed under CC BY 4.0). Planet positions are calculated with open-source astronomical libraries.
 
@@ -106,7 +106,7 @@ Location data comes from GeoNames (licensed under CC BY 4.0). Planet positions a
 - The app is provided **"as is" and "as available"**. To the fullest extent permitted by law, we make no express or implied warranties that it will be uninterrupted, error-free or secure, or that its content is accurate or fit for a particular purpose.
 - We make no promise that astrological, numerological, tarot or fortune readings, compatibility scores or AI answers are accurate or will come true.
 - We are not responsible for the outcome of your communication, meetings or relationships with other users. We do not verify users' identity or background. Be careful when meeting people you do not know (see the Disclaimer).
-- To the fullest extent permitted by law, we are not liable for indirect, incidental, special or consequential damages, or for loss of profit, data or reputation. In any case, our total liability is limited to the amount you paid for Astro Me in the 12 months before the claim.
+- To the fullest extent permitted by law, we are not liable for indirect, incidental, special or consequential damages, or for loss of profit, data or reputation. In any case, our total liability is limited to the amount you paid for AstroLuna in the 12 months before the claim.
 - This section does not affect liability that cannot be limited by law (such as for intent or gross negligence) or the mandatory rights you have as a consumer.
 
 ## 14. Indemnity
@@ -127,7 +127,7 @@ We may update these Terms from time to time. The current version is always avail
 
 ## 18. Governing law and disputes
 
-These Terms are governed by the laws of the Republic of Türkiye, where Astro Me's developer is established, without regard to conflict-of-law rules. Disputes are subject to the courts at the developer's place of residence. If you are a consumer, you keep the mandatory protections of the laws of the country where you live and your right to bring claims before the courts or consumer bodies there.
+These Terms are governed by the laws of the Republic of Türkiye, where AstroLuna's developer is established, without regard to conflict-of-law rules. Disputes are subject to the courts at the developer's place of residence. If you are a consumer, you keep the mandatory protections of the laws of the country where you live and your right to bring claims before the courts or consumer bodies there.
 
 If you have a problem, please write to us before taking formal action. We can resolve most issues quickly.
 

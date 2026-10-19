@@ -1,4 +1,4 @@
-# Astro Me — legal pages
+# AstroLuna — legal pages
 
 Published with GitHub Pages: https://ergunappdev.github.io/astro-me/
 

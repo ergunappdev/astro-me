@@ -1,10 +1,10 @@
 ---
-title: Astro Me
+title: AstroLuna
 ---
 
-# Astro Me
+# AstroLuna
 
-Astro Me calculates your birth chart from the real sky and turns it into everyday guidance: horoscopes, transits, tarot, numerology, Human Design, dream and fortune readings, Luna, your AI astrology assistant, and Soulmate, where you can meet people based on astrological compatibility.
+AstroLuna calculates your birth chart from the real sky and turns it into everyday guidance: horoscopes, transits, tarot, numerology, Human Design, dream and fortune readings, Luna, your AI astrology assistant, and Soulmate, where you can meet people based on astrological compatibility.
 
 - [Privacy Policy](privacy)
 - [Terms of Use](terms)

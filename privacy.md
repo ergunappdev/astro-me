@@ -4,15 +4,15 @@ title: Privacy Policy
 
 # Privacy Policy
 
-_Last updated: October 14, 2026_
+_Last updated: October 19, 2026_
 
-When you use Astro Me, you trust us with personal information such as your birth details. This policy explains what we collect, why we collect it, who we share it with, how long we keep it and what rights you have. We do not sell your data, we do not use it for advertising and we do not track you across other apps or websites.
+When you use AstroLuna, you trust us with personal information such as your birth details. This policy explains what we collect, why we collect it, who we share it with, how long we keep it and what rights you have. We do not sell your data, we do not use it for advertising and we do not track you across other apps or websites.
 
 This policy is designed to meet the requirements of the EU and UK General Data Protection Regulation (GDPR), US state privacy laws such as the California Consumer Privacy Act (CCPA/CPRA), Turkey's Personal Data Protection Law (KVKK) and similar laws around the world. Region-specific information is in section 12.
 
 ## 1. Who we are
 
-The Astro Me mobile app ("Astro Me", "the app", "we", "us") is the controller of your personal data. For any privacy question or request, contact us at ergun.app.dev@gmail.com.
+The AstroLuna mobile app ("AstroLuna", "the app", "we", "us") is the controller of your personal data. For any privacy question or request, contact us at ergun.app.dev@gmail.com.
 
 ## 2. In short
 
@@ -52,7 +52,7 @@ You choose your birthplace from a list. We do not use your device's location ser
 - **Friends:** Your friend code, friend requests and friend list.
 - **Sign groups:** Which groups you have joined and your group preferences.
 - **Notifications:** The device notification token Apple provides, so we can send you notifications, and your notification preferences.
-- **Premium subscription:** To check whether your subscription is active, we store the transaction ID, product, status and expiry date received from Apple. **We never see your payment details**; Apple handles all payments.
+- **Premium subscription:** To check whether your subscription is active, we store the transaction ID, product, status and expiry date received from Apple. **We never see your payment details**; Apple handles all payments. Purchases are verified through RevenueCat, which receives your anonymous account ID and purchase records. If you installed the app from an Apple Search Ads ad, an anonymous attribution token from Apple is also sent to RevenueCat so we can measure which campaigns work; it does not identify you and is not used to track you.
 
 ### 3.4 Technical information
 
@@ -98,6 +98,7 @@ General horoscopes, numerology and compatibility texts are not personal. They ar
   - **Cloudflare, Inc.** for server, database and file storage infrastructure.
   - **OpenAI, L.L.C.** for AI reading generation and content moderation.
   - **Apple Inc.** for Sign in with Apple, notification delivery (APNs), DeviceCheck, in-app purchases and subscription verification.
+  - **RevenueCat, Inc.** for subscription management and purchase verification.
   - **GitHub, Inc.** for hosting these legal pages (no personal data is processed).
 - **Legal requirements:** We may share information with competent authorities, only as far as required, when a court order or legal obligation requires it.
 
@@ -153,7 +154,7 @@ Send requests to ergun.app.dev@gmail.com. To help us verify your identity, we re
 
 ## 13. Children
 
-Astro Me is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate and sign groups are open only to users aged 18 or older, calculated from the birth date; users under 18 can message only friends they add by code. If you learn that a child under 13 has given us information, contact us and we will delete it.
+AstroLuna is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate and sign groups are open only to users aged 18 or older, calculated from the birth date; users under 18 can message only friends they add by code. If you learn that a child under 13 has given us information, contact us and we will delete it.
 
 ## 14. Notifications
 

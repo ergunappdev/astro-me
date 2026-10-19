@@ -38,7 +38,7 @@ Go to Profile › Delete My Account. Your account and all your data on our serve
 
 #### How do I cancel my subscription?
 
-On your iPhone go to Settings › [your name] › Subscriptions › Astro Me and tap Cancel Subscription. Cancel at least 24 hours before the end of the current period to avoid the next charge. You keep Premium until the end of the period you paid for.
+On your iPhone go to Settings › [your name] › Subscriptions › AstroLuna and tap Cancel Subscription. Cancel at least 24 hours before the end of the current period to avoid the next charge. You keep Premium until the end of the period you paid for.
 
 #### How do I get a refund?
 
@@ -56,7 +56,7 @@ Most of the app is free, including general daily, weekly and monthly horoscopes,
 
 #### Why is my reading different from another app?
 
-Apps use different house systems, zodiac systems and interpretation styles, and personal readings depend on your exact birth time and place. Astro Me calculates planet positions astronomically and writes readings for your own chart.
+Apps use different house systems, zodiac systems and interpretation styles, and personal readings depend on your exact birth time and place. AstroLuna calculates planet positions astronomically and writes readings for your own chart.
 
 #### Are the readings accurate?
 
@@ -84,7 +84,7 @@ Soulmate and sign groups are for users aged 18 and over, because they involve ta
 
 #### How do I turn notifications on or off?
 
-Go to Profile › Account and preferences to turn each notification type on or off. To turn off all notifications, go to iPhone Settings › Notifications › Astro Me.
+Go to Profile › Account and preferences to turn each notification type on or off. To turn off all notifications, go to iPhone Settings › Notifications › AstroLuna.
 
 ### Privacy
 

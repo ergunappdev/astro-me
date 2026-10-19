@@ -6,21 +6,21 @@ title: Kullanım Koşulları
 
 _Son güncelleme: 14 Ekim 2026_
 
-Bu Kullanım Koşulları ("Koşullar"), Astro Me mobil uygulamasını ("Astro Me", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
+Bu Kullanım Koşulları ("Koşullar"), AstroLuna mobil uygulamasını ("AstroLuna", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
 
 Lütfen şu bölümleri dikkatle oku: Premium abonelikler (madde 6), topluluk kuralları (madde 8) ve sorumluluğun sınırlandırılması (madde 13).
 
 ## 1. Hizmet
 
-Astro Me; doğum haritası hesaplama, günlük, haftalık, aylık ve yıllık burç yorumları, transitler, astro takvim, tarot, numeroloji, Human Design, rüya yorumu, el ve kahve falı, Luna adlı yapay zekâ asistanı, astroloji dersleri ve testleri, burç grupları, arkadaşlar ve Ruh Eşi (astrolojik uyuma göre insanlarla tanışma) gibi özellikler sunar.
+AstroLuna; doğum haritası hesaplama, günlük, haftalık, aylık ve yıllık burç yorumları, transitler, astro takvim, tarot, numeroloji, Human Design, rüya yorumu, el ve kahve falı, Luna adlı yapay zekâ asistanı, astroloji dersleri ve testleri, burç grupları, arkadaşlar ve Ruh Eşi (astrolojik uyuma göre insanlarla tanışma) gibi özellikler sunar.
 
 Uygulamadaki içerikler **eğlence ve kişisel keşif içindir**; profesyonel tavsiye değildir. Ayrıntılar için Sorumluluk Reddi'ne bak.
 
 Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldırabiliriz.
 
-## 2. Astro Me'yi kimler kullanabilir
+## 2. AstroLuna'yı kimler kullanabilir
 
-- Astro Me'yi kullanmak için **en az 13 yaşında** olmalısın. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa ve sen bu yaşın altındaysan, ebeveyninin ya da yasal velinin iznine ihtiyacın vardır.
+- AstroLuna'yı kullanmak için **en az 13 yaşında** olmalısın. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa ve sen bu yaşın altındaysan, ebeveyninin ya da yasal velinin iznine ihtiyacın vardır.
 - **Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır,** çünkü bu bölümlerde tanımadığın kişilerle konuşursun. 13–17 yaş arasındaki kullanıcılar, kodla eklediği arkadaşlarıyla yazışmak dahil diğer bütün özellikleri kullanabilir. Yaşın, verdiğin doğum tarihinden hesaplanır. Yaşı hakkında yanlış bilgi veren hesapları kapatırız.
 - Kurallarımızı ihlal ettiği için hesabı kapatılan kişiler yeni hesap açamaz.
 - Sana uygulanan yasalar yasaklıyorsa uygulamayı kullanamazsın.
@@ -35,7 +35,7 @@ Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldıra
 
 ## 4. Ücretsiz kullanım ve haklar
 
-Astro Me'nin birçok özelliği ücretsizdir. Bazıları ücretsiz kullanıcılara sınırlı sayıda sunulur; örneğin Luna'ya ve Tarot'a Sor'a toplamda birkaç soru ya da günlük belirli sayıda Ruh Eşi beğenisi. Ücretsiz haklar cihaza bağlıdır; bunları yenilemek için yeni hesap açmak bu Koşulların ihlalidir. Ücretsiz hakların kapsamını ve sayısını değiştirebiliriz.
+AstroLuna'nın birçok özelliği ücretsizdir. Bazıları ücretsiz kullanıcılara sınırlı sayıda sunulur; örneğin Luna'ya ve Tarot'a Sor'a toplamda birkaç soru ya da günlük belirli sayıda Ruh Eşi beğenisi. Ücretsiz haklar cihaza bağlıdır; bunları yenilemek için yeni hesap açmak bu Koşulların ihlalidir. Ücretsiz hakların kapsamını ve sayısını değiştirebiliriz.
 
 ## 5. Premium
 
@@ -57,7 +57,7 @@ Kötüye kullanımı ve aşırı maliyeti önlemek için yapay zekâ özellikler
 
 ## 7. Apple ve App Store
 
-Bu Koşullar Apple ile değil, seninle Astro Me arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Bu Koşullar Apple ile değil, seninle AstroLuna arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple ve bağlı şirketleri bu Koşulların üçüncü taraf lehtarıdır ve Koşulları sana karşı uygulayabilir. Apple'ın uygulama için bakım ya da destek sağlama yükümlülüğü yoktur. Uygulama geçerli bir garantiye uymazsa Apple'a bildirebilirsin; Apple varsa satın alma bedelini iade edebilir. Yasaların izin verdiği en geniş ölçüde Apple'ın başka bir garanti yükümlülüğü yoktur. Ürün sorumluluğu, tüketicinin korunması ya da fikri mülkiyet ihlali talepleri dahil, uygulamayla ilgili taleplerin karşılanmasından Apple sorumlu değildir.
 
@@ -97,7 +97,7 @@ Luna'nın yanıtları, kişisel yorumlar, raporlar ve rüya, el ve kahve falı y
 
 ## 12. Fikri mülkiyet
 
-Uygulamanın tasarımı, yazılımı, görselleri, metinleri, tarot ve burç çizimleri, logosu ve "Astro Me" adı bize ya da lisans verenlerimize aittir ve yasalarla korunur. Bu Koşullara uyduğun sürece, uygulamayı kişisel ve ticari olmayan kullanımın için kullanman amacıyla sana sınırlı, devredilemez ve geri alınabilir bir lisans veririz. Uygulamayı ya da içeriğini kopyalayamaz, değiştiremez, dağıtamaz, satamaz veya tersine mühendislikle çözemezsin. Uygulamanın paylaşım kartlarını kişisel kullanım için sosyal medyada paylaşabilirsin.
+Uygulamanın tasarımı, yazılımı, görselleri, metinleri, tarot ve burç çizimleri, logosu ve "AstroLuna" adı bize ya da lisans verenlerimize aittir ve yasalarla korunur. Bu Koşullara uyduğun sürece, uygulamayı kişisel ve ticari olmayan kullanımın için kullanman amacıyla sana sınırlı, devredilemez ve geri alınabilir bir lisans veririz. Uygulamayı ya da içeriğini kopyalayamaz, değiştiremez, dağıtamaz, satamaz veya tersine mühendislikle çözemezsin. Uygulamanın paylaşım kartlarını kişisel kullanım için sosyal medyada paylaşabilirsin.
 
 Konum verileri GeoNames'ten alınır (CC BY 4.0 lisanslı). Gezegen konumları açık kaynaklı astronomi kütüphaneleriyle hesaplanır.
 
@@ -106,7 +106,7 @@ Konum verileri GeoNames'ten alınır (CC BY 4.0 lisanslı). Gezegen konumları a
 - Uygulama **"olduğu gibi" ve "mevcut olduğu şekliyle"** sunulur. Yasaların izin verdiği en geniş ölçüde; kesintisiz, hatasız ya da güvenli olacağına veya içeriğinin doğru ya da belirli bir amaca uygun olduğuna dair açık veya örtülü hiçbir garanti vermeyiz.
 - Astroloji, numeroloji, tarot ya da fal yorumlarının, uyum puanlarının veya yapay zekâ yanıtlarının doğru olacağına ya da gerçekleşeceğine dair söz vermeyiz.
 - Diğer kullanıcılarla iletişiminin, buluşmalarının ya da ilişkilerinin sonuçlarından sorumlu değiliz. Kullanıcıların kimliğini ya da geçmişini doğrulamayız. Tanımadığın insanlarla buluşurken dikkatli ol (bkz. Sorumluluk Reddi).
-- Yasaların izin verdiği en geniş ölçüde; dolaylı, arızi, özel ya da sonuç olarak doğan zararlardan veya kâr, veri ya da itibar kaybından sorumlu değiliz. Her durumda toplam sorumluluğumuz, talepten önceki 12 ayda Astro Me için ödediğin tutarla sınırlıdır.
+- Yasaların izin verdiği en geniş ölçüde; dolaylı, arızi, özel ya da sonuç olarak doğan zararlardan veya kâr, veri ya da itibar kaybından sorumlu değiliz. Her durumda toplam sorumluluğumuz, talepten önceki 12 ayda AstroLuna için ödediğin tutarla sınırlıdır.
 - Bu madde, yasalarca sınırlandırılamayan sorumlulukları (kasıt ya da ağır ihmal gibi) ve tüketici olarak sahip olduğun vazgeçilemez hakları etkilemez.
 
 ## 14. Tazminat
@@ -127,7 +127,7 @@ Bu Koşulları zaman zaman güncelleyebiliriz. Güncel sürüm her zaman uygulam
 
 ## 18. Uygulanacak hukuk ve uyuşmazlıklar
 
-Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın, Astro Me geliştiricisinin bulunduğu Türkiye Cumhuriyeti'nin yasalarına tabidir. Uyuşmazlıklarda geliştiricinin yerleşim yerindeki mahkemeler yetkilidir. Tüketiciysen, yaşadığın ülkenin yasalarının sağladığı vazgeçilemez korumalar ve oradaki mahkemelere veya tüketici kuruluşlarına başvurma hakkın saklıdır.
+Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın, AstroLuna geliştiricisinin bulunduğu Türkiye Cumhuriyeti'nin yasalarına tabidir. Uyuşmazlıklarda geliştiricinin yerleşim yerindeki mahkemeler yetkilidir. Tüketiciysen, yaşadığın ülkenin yasalarının sağladığı vazgeçilemez korumalar ve oradaki mahkemelere veya tüketici kuruluşlarına başvurma hakkın saklıdır.
 
 Bir sorun yaşarsan, resmî bir yola başvurmadan önce lütfen bize yaz. Çoğu sorunu hızla çözebiliriz.
 

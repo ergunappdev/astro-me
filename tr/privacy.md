@@ -4,15 +4,15 @@ title: Gizlilik Politikası
 
 # Gizlilik Politikası
 
-_Son güncelleme: 14 Ekim 2026_
+_Son güncelleme: 19 Ekim 2026_
 
-Astro Me'yi kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
+AstroLuna'yı kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
 
 Bu politika; AB ve Birleşik Krallık Genel Veri Koruma Tüzüğü (GDPR), Kaliforniya Tüketici Gizliliği Yasası (CCPA/CPRA) gibi ABD eyalet yasaları, Türkiye'nin Kişisel Verilerin Korunması Kanunu (KVKK) ve dünyadaki benzer yasaların gerekliliklerini karşılayacak şekilde hazırlanmıştır. Bölgelere özel bilgiler 12. maddededir.
 
 ## 1. Biz kimiz
 
-Astro Me mobil uygulaması ("Astro Me", "uygulama", "biz") kişisel verilerinin veri sorumlusudur. Gizlilikle ilgili her soru ve talebin için bize ergun.app.dev@gmail.com adresinden ulaşabilirsin.
+AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerinin veri sorumlusudur. Gizlilikle ilgili her soru ve talebin için bize ergun.app.dev@gmail.com adresinden ulaşabilirsin.
 
 ## 2. Kısaca
 
@@ -52,7 +52,7 @@ Doğum yerini listeden sen seçersin. Cihazının konum servislerini (GPS) kulla
 - **Arkadaşlar:** Arkadaş kodun, arkadaşlık istekleri ve arkadaş listen.
 - **Burç grupları:** Katıldığın gruplar ve grup tercihlerin.
 - **Bildirimler:** Sana bildirim gönderebilmemiz için Apple'ın verdiği cihaz bildirim anahtarı ve bildirim tercihlerin.
-- **Premium abonelik:** Aboneliğinin geçerli olup olmadığını kontrol etmek için Apple'dan gelen işlem kimliği, ürün, durum ve bitiş tarihi. **Ödeme bilgilerini hiçbir zaman görmeyiz;** bütün ödemeleri Apple yürütür.
+- **Premium abonelik:** Aboneliğinin geçerli olup olmadığını kontrol etmek için Apple'dan gelen işlem kimliği, ürün, durum ve bitiş tarihi. **Ödeme bilgilerini hiçbir zaman görmeyiz;** bütün ödemeleri Apple yürütür. Satın almalar RevenueCat üzerinden doğrulanır; RevenueCat anonim hesap kimliğini ve satın alma kayıtlarını alır. Uygulamayı bir Apple Search Ads reklamından indirdiysen, hangi kampanyaların işe yaradığını ölçebilmemiz için Apple'ın anonim kaynak belirteci de RevenueCat'e gönderilir; bu belirteç seni tanımlamaz ve seni takip etmek için kullanılmaz.
 
 ### 3.4 Teknik bilgiler
 
@@ -98,6 +98,7 @@ Genel burç yorumları, numeroloji ve uyum metinleri kişiye özel değildir; he
   - **Cloudflare, Inc.**: sunucu, veritabanı ve dosya depolama altyapısı.
   - **OpenAI, L.L.C.**: yapay zekâ ile yorum üretimi ve içerik denetimi.
   - **Apple Inc.**: Apple ile giriş, bildirim iletimi (APNs), DeviceCheck, uygulama içi satın alma ve abonelik doğrulaması.
+  - **RevenueCat, Inc.**: abonelik yönetimi ve satın alma doğrulaması.
   - **GitHub, Inc.**: bu yasal sayfaların barındırılması (kişisel veri işlenmez).
 - **Yasal zorunluluklar:** Mahkeme kararı ya da yasal bir yükümlülük gerektirdiğinde, yalnızca gerektiği kadar bilgiyi yetkili makamlarla paylaşabiliriz.
 
@@ -153,7 +154,7 @@ Taleplerini ergun.app.dev@gmail.com adresine gönder. Kimliğini doğrulayabilme
 
 ## 13. Çocuklar
 
-Astro Me 13 yaşından küçükler için tasarlanmamıştır ve bu yaştaki çocuklardan bilerek bilgi toplamayız. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa (bazı AB ülkelerinde 16'ya kadar) ve sen bu yaşın altındaysan, uygulamayı kullanmak için ebeveyninin ya da velinin iznine ihtiyacın vardır. Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır; yaş, doğum tarihinden hesaplanır. 18 yaşından küçük kullanıcılar yalnızca kodla eklediği arkadaşlarıyla yazışabilir. 13 yaşından küçük bir çocuğun bize bilgi verdiğini öğrenirsen bize yaz, bilgileri sileriz.
+AstroLuna 13 yaşından küçükler için tasarlanmamıştır ve bu yaştaki çocuklardan bilerek bilgi toplamayız. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa (bazı AB ülkelerinde 16'ya kadar) ve sen bu yaşın altındaysan, uygulamayı kullanmak için ebeveyninin ya da velinin iznine ihtiyacın vardır. Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır; yaş, doğum tarihinden hesaplanır. 18 yaşından küçük kullanıcılar yalnızca kodla eklediği arkadaşlarıyla yazışabilir. 13 yaşından küçük bir çocuğun bize bilgi verdiğini öğrenirsen bize yaz, bilgileri sileriz.
 
 ## 14. Bildirimler
 
