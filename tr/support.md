@@ -10,7 +10,7 @@ Bir sorun mu yaşıyorsun, aklında bir fikir mi var? Bize yaz; genellikle 1–2
 
 ## İletişim
 
-E-posta: ergun.app.dev@gmail.com
+E-posta: [ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com?subject=AstroLuna%20Support)
 
 Uygulamanın içinden de yazabilirsin: Profil › Destek, mail uygulamanı hazır bir e-postayla açar. Hesabını hızlıca bulabilmemiz için hesap kimliğini kendiliğinden ekler. Adını, doğum bilgilerini ya da mesajlarını asla eklemez.
 
