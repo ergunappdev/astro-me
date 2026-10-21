@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use
 
-_Last updated: October 14, 2026_
+_Last updated: October 21, 2026_
 
 These Terms of Use ("Terms") govern your use of the AstroLuna mobile app ("AstroLuna", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
 
@@ -27,7 +27,7 @@ We may add, change or remove features to improve the service.
 
 ## 3. Your account
 
-- When you first open the app, an anonymous account is created for you automatically. Social features such as Soulmate, friends and posting in sign groups require Sign in with Apple.
+- When you first open the app, an anonymous account is created for you automatically. Social features such as Soulmate, friends and posting in sign groups require Sign in with Apple on iPhone or Sign in with Google on Android.
 - You are responsible for the accuracy of the information you provide, especially your birth details; readings depend on them.
 - To prevent misuse of calculations, birth details can be changed up to 3 times.
 - You are responsible for keeping your account and device secure. You may not transfer or sell your account.
@@ -45,19 +45,21 @@ To prevent abuse and excessive cost, AI features have reasonable daily limits ev
 
 ## 6. Subscriptions, payment and cancellation
 
-- **Plans:** Weekly, monthly and yearly subscription plans are offered. Current prices are shown in your local currency on the purchase screen and in the App Store and may include applicable taxes.
-- **Payment:** Payment is charged to your Apple ID account by Apple when you confirm the purchase. We never have access to your payment details.
-- **Auto-renewal:** Your subscription **renews automatically** for the same period and price unless you cancel it **at least 24 hours before** the end of the current period. Your Apple ID account is charged for renewal within the 24 hours before the current period ends.
-- **Managing and cancelling:** You can manage or cancel your subscription on your iPhone in Settings › [your name] › Subscriptions, or in your App Store account settings. Cancellation takes effect at the end of the current period, and you keep Premium until then.
-- **Deleting your account does not cancel your subscription.** Because Apple processes the payment, you must cancel the subscription with Apple separately.
-- **Refunds:** All purchases are processed by Apple. You can request a refund from Apple at reportaproblem.apple.com under Apple's policies. We cannot issue refunds directly. Your statutory consumer rights are not affected.
-- **Price changes:** If we change a subscription price, Apple will notify you in advance and, where required, ask you to accept the new price.
+- **Plans:** Weekly, monthly and yearly subscription plans are offered. Current prices are shown in your local currency on the purchase screen and in the App Store or Google Play and may include applicable taxes.
+- **Payment:** On iPhone, payment is charged to your Apple ID account by Apple when you confirm the purchase. On Android, payment is charged to your Google Play account and processed by Google through Google Play Billing. We never have access to your payment details.
+- **Auto-renewal:** Your subscription **renews automatically** for the same period and price unless you cancel it **at least 24 hours before** the end of the current period. On the App Store, your Apple ID account is charged for renewal within the 24 hours before the current period ends; on Google Play, your Google Play account is charged when the new period begins.
+- **Managing and cancelling:** You can manage or cancel your subscription on your iPhone in Settings › [your name] › Subscriptions, or in your App Store account settings. On Android, open the Google Play Store app and tap your profile icon › Payments & subscriptions › Subscriptions › AstroLuna › Cancel subscription, or visit play.google.com/store/account/subscriptions. Cancellation takes effect at the end of the current period, and you keep Premium until then.
+- **Deleting your account does not cancel your subscription.** Because Apple or Google processes the payment, you must cancel the subscription with them separately.
+- **Refunds:** All purchases are processed by Apple (App Store) or Google (Google Play). You can request a refund from Apple at reportaproblem.apple.com under Apple's policies, or from Google under Google Play's refund policy (support.google.com/googleplay/answer/2479637). We cannot issue refunds directly. Your statutory consumer rights are not affected.
+- **Price changes:** If we change a subscription price, Apple or Google will notify you in advance and, where required, ask you to accept the new price.
 - **Restoring purchases:** If you change phones or reinstall the app, use "Restore" on the purchase screen to restore your subscription.
 - **Free trials:** No free trial is currently offered. If one is offered in the future, any unused part of the trial ends when you purchase a subscription.
 
-## 7. Apple and the App Store
+## 7. Apple App Store and Google Play
 
-These Terms are between you and AstroLuna, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+If you downloaded the app from Google Play, your use of Google Play is also subject to the Google Play Terms of Service. These Terms are between you and AstroLuna, not Google, and Google is not responsible for the app or its content.
+
+The rest of this section applies if you downloaded the app from the App Store. These Terms are between you and AstroLuna, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you. Apple has no obligation to provide maintenance or support for the app. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price, if any. To the maximum extent permitted by law, Apple has no other warranty obligation. Apple is not responsible for addressing claims relating to the app, including product liability claims, consumer protection claims or intellectual property infringement claims.
 
@@ -75,7 +77,7 @@ Soulmate, chats, friends and sign groups are places where you talk to real peopl
 - content that infringes copyright or other intellectual property rights;
 - trying to disrupt, overload or reverse engineer the app or its servers, access other users' accounts, or use the app with automated tools (bots, scrapers).
 
-We have **zero tolerance** for these behaviors.
+We have **zero tolerance** for these behaviors. In particular, child sexual abuse and exploitation (CSAE), including child sexual abuse material (CSAM), grooming and sextortion, is strictly prohibited: we remove such content, close the accounts involved and report it to the competent authorities as required by law. Child safety contact: ergun.app.dev@gmail.com.
 
 ## 9. Reporting, blocking and moderation
 
@@ -115,11 +117,11 @@ To the extent permitted by law, you agree to hold us harmless from claims brough
 
 ## 15. Suspension and termination
 
-We may suspend or close accounts that break these Terms, endanger other users or misuse the service, without notice. If your account is closed for breaking our rules, no refund is given for the remaining subscription period; refund requests are subject to Apple's policies. To appeal a closure, write to ergun.app.dev@gmail.com.
+We may suspend or close accounts that break these Terms, endanger other users or misuse the service, without notice. If your account is closed for breaking our rules, no refund is given for the remaining subscription period; refund requests are subject to Apple's or Google Play's policies. To appeal a closure, write to ergun.app.dev@gmail.com.
 
 ## 16. Third-party services
 
-The app relies on third-party services such as Apple, Cloudflare and OpenAI. We are not responsible for their outages or for matters arising from their own terms.
+The app relies on third-party services such as Apple, Google, Cloudflare and OpenAI. We are not responsible for their outages or for matters arising from their own terms.
 
 ## 17. Changes
 

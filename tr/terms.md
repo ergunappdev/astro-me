@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Kullanım Koşulları
 
-_Son güncelleme: 14 Ekim 2026_
+_Son güncelleme: 21 Ekim 2026_
 
 Bu Kullanım Koşulları ("Koşullar"), AstroLuna mobil uygulamasını ("AstroLuna", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
 
@@ -27,7 +27,7 @@ Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldıra
 
 ## 3. Hesabın
 
-- Uygulamayı ilk açtığında senin için otomatik olarak anonim bir hesap oluşturulur. Ruh Eşi, arkadaşlar ve burç gruplarında yazmak gibi sosyal özellikler Apple ile giriş gerektirir.
+- Uygulamayı ilk açtığında senin için otomatik olarak anonim bir hesap oluşturulur. Ruh Eşi, arkadaşlar ve burç gruplarında yazmak gibi sosyal özellikler iPhone'da Apple ile, Android'de Google ile giriş gerektirir.
 - Verdiğin bilgilerin, özellikle doğum bilgilerinin doğruluğundan sen sorumlusun; yorumlar bu bilgilere dayanır.
 - Hesaplamaların kötüye kullanılmasını önlemek için doğum bilgileri en fazla 3 kez değiştirilebilir.
 - Hesabını ve cihazını güvende tutmaktan sen sorumlusun. Hesabını başkasına devredemez ya da satamazsın.
@@ -45,19 +45,21 @@ Kötüye kullanımı ve aşırı maliyeti önlemek için yapay zekâ özellikler
 
 ## 6. Abonelikler, ödeme ve iptal
 
-- **Planlar:** Haftalık, aylık ve yıllık abonelik planları sunulur. Güncel fiyatlar satın alma ekranında ve App Store'da kendi para biriminle gösterilir ve geçerli vergileri içerebilir.
-- **Ödeme:** Satın almayı onayladığında ücret Apple tarafından Apple Kimliği hesabından alınır. Ödeme bilgilerine hiçbir zaman erişimimiz olmaz.
-- **Otomatik yenileme:** Aboneliğin, mevcut dönemin bitiminden **en az 24 saat önce** iptal edilmezse aynı süre ve aynı fiyatla **otomatik olarak yenilenir**. Yenileme ücreti, mevcut dönemin bitiminden önceki 24 saat içinde Apple Kimliği hesabından alınır.
-- **Yönetim ve iptal:** Aboneliğini iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ya da App Store hesap ayarlarından yönetebilir veya iptal edebilirsin. İptal mevcut dönemin sonunda geçerli olur; o zamana kadar Premium'u kullanmaya devam edersin.
-- **Hesabını silmek aboneliğini iptal etmez.** Ödemeyi Apple aldığı için aboneliği Apple'da ayrıca iptal etmelisin.
-- **İade:** Bütün satın almalar Apple tarafından yürütülür. İade talebini Apple'ın kurallarına göre reportaproblem.apple.com adresinden Apple'a iletebilirsin. Doğrudan iade yapamayız. Yasal tüketici hakların saklıdır.
-- **Fiyat değişiklikleri:** Bir abonelik fiyatını değiştirirsek Apple sana önceden haber verir ve gerektiğinde yeni fiyatı onaylamanı ister.
+- **Planlar:** Haftalık, aylık ve yıllık abonelik planları sunulur. Güncel fiyatlar satın alma ekranında ve App Store'da ya da Google Play'de kendi para biriminle gösterilir ve geçerli vergileri içerebilir.
+- **Ödeme:** iPhone'da, satın almayı onayladığında ücret Apple tarafından Apple Kimliği hesabından alınır. Android'de ücret Google Play hesabından alınır ve ödemeyi Google, Google Play Faturalandırma üzerinden işler. Ödeme bilgilerine hiçbir zaman erişimimiz olmaz.
+- **Otomatik yenileme:** Aboneliğin, mevcut dönemin bitiminden **en az 24 saat önce** iptal edilmezse aynı süre ve aynı fiyatla **otomatik olarak yenilenir**. App Store'da yenileme ücreti, mevcut dönemin bitiminden önceki 24 saat içinde Apple Kimliği hesabından alınır; Google Play'de ise yeni dönem başladığında Google Play hesabından alınır.
+- **Yönetim ve iptal:** Aboneliğini iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ya da App Store hesap ayarlarından yönetebilir veya iptal edebilirsin. Android'de Google Play Store uygulamasını aç, profil simgene dokun ve Ödemeler ve abonelikler › Abonelikler › AstroLuna › Aboneliği iptal et adımlarını izle ya da play.google.com/store/account/subscriptions adresine git. İptal mevcut dönemin sonunda geçerli olur; o zamana kadar Premium'u kullanmaya devam edersin.
+- **Hesabını silmek aboneliğini iptal etmez.** Ödemeyi Apple ya da Google aldığı için aboneliği onlarda ayrıca iptal etmelisin.
+- **İade:** Bütün satın almalar Apple (App Store) ya da Google (Google Play) tarafından yürütülür. İade talebini Apple'ın kurallarına göre reportaproblem.apple.com adresinden Apple'a ya da Google Play'in iade politikasına göre Google'a (support.google.com/googleplay/answer/2479637) iletebilirsin. Doğrudan iade yapamayız. Yasal tüketici hakların saklıdır.
+- **Fiyat değişiklikleri:** Bir abonelik fiyatını değiştirirsek Apple ya da Google sana önceden haber verir ve gerektiğinde yeni fiyatı onaylamanı ister.
 - **Satın alımları geri yükleme:** Telefonunu değiştirirsen ya da uygulamayı yeniden yüklersen, aboneliğini geri getirmek için satın alma ekranındaki "Geri Yükle"ye dokun.
 - **Ücretsiz deneme:** Şu an ücretsiz deneme sunulmuyor. İleride sunulursa, abonelik satın aldığında denemenin kullanılmayan kısmı sona erer.
 
-## 7. Apple ve App Store
+## 7. Apple App Store ve Google Play
 
-Bu Koşullar Apple ile değil, seninle AstroLuna arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Uygulamayı Google Play'den indirdiysen, Google Play'i kullanımına Google Play Hizmet Şartları da uygulanır. Bu Koşullar Google ile değil, seninle AstroLuna arasındadır; uygulamadan ve içeriğinden Google sorumlu değildir.
+
+Bu maddenin geri kalanı, uygulamayı App Store'dan indirdiysen geçerlidir. Bu Koşullar Apple ile değil, seninle AstroLuna arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple ve bağlı şirketleri bu Koşulların üçüncü taraf lehtarıdır ve Koşulları sana karşı uygulayabilir. Apple'ın uygulama için bakım ya da destek sağlama yükümlülüğü yoktur. Uygulama geçerli bir garantiye uymazsa Apple'a bildirebilirsin; Apple varsa satın alma bedelini iade edebilir. Yasaların izin verdiği en geniş ölçüde Apple'ın başka bir garanti yükümlülüğü yoktur. Ürün sorumluluğu, tüketicinin korunması ya da fikri mülkiyet ihlali talepleri dahil, uygulamayla ilgili taleplerin karşılanmasından Apple sorumlu değildir.
 
@@ -75,7 +77,7 @@ Ruh Eşi, sohbetler, arkadaşlar ve burç grupları gerçek insanlarla konuştu�
 - telif hakkını ya da başka fikri mülkiyet haklarını ihlal eden içerik;
 - uygulamayı veya sunucularını bozmaya, aşırı yüklemeye ya da tersine mühendislikle çözmeye çalışmak, başkalarının hesaplarına erişmek ya da uygulamayı otomatik araçlarla (bot, kazıyıcı) kullanmak.
 
-Bu davranışlara **sıfır tolerans** gösteririz.
+Bu davranışlara **sıfır tolerans** gösteririz. Özellikle çocuk istismarı ve sömürüsü (CSAE); çocuk istismarı içeren materyaller (CSAM), çocukları cinsel amaçla kandırma (grooming) ve cinsel şantaj dahil, kesinlikle yasaktır: Bu tür içeriği kaldırır, ilgili hesapları kapatır ve yasaların gerektirdiği şekilde yetkili makamlara bildiririz. Çocuk güvenliği iletişim adresi: ergun.app.dev@gmail.com.
 
 ## 9. Şikâyet, engelleme ve denetim
 
@@ -115,11 +117,11 @@ Yasaların izin verdiği ölçüde, bu Koşulları ihlal etmen ya da içeriğin 
 
 ## 15. Askıya alma ve fesih
 
-Bu Koşulları ihlal eden, diğer kullanıcıları tehlikeye atan ya da hizmeti kötüye kullanan hesapları haber vermeden askıya alabilir veya kapatabiliriz. Hesabın kurallarımızı ihlal ettiği için kapatılırsa, kalan abonelik süresi için iade yapılmaz; iade talepleri Apple'ın kurallarına tabidir. Kapatmaya itiraz etmek için ergun.app.dev@gmail.com adresine yaz.
+Bu Koşulları ihlal eden, diğer kullanıcıları tehlikeye atan ya da hizmeti kötüye kullanan hesapları haber vermeden askıya alabilir veya kapatabiliriz. Hesabın kurallarımızı ihlal ettiği için kapatılırsa, kalan abonelik süresi için iade yapılmaz; iade talepleri Apple'ın ya da Google Play'in kurallarına tabidir. Kapatmaya itiraz etmek için ergun.app.dev@gmail.com adresine yaz.
 
 ## 16. Üçüncü taraf hizmetleri
 
-Uygulama Apple, Cloudflare ve OpenAI gibi üçüncü taraf hizmetlerine dayanır. Bu hizmetlerdeki kesintilerden ya da onların kendi koşullarından doğan durumlardan sorumlu değiliz.
+Uygulama Apple, Google, Cloudflare ve OpenAI gibi üçüncü taraf hizmetlerine dayanır. Bu hizmetlerdeki kesintilerden ya da onların kendi koşullarından doğan durumlardan sorumlu değiliz.
 
 ## 17. Değişiklikler
 

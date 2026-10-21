@@ -4,7 +4,7 @@ title: Gizlilik Politikası
 
 # Gizlilik Politikası
 
-_Son güncelleme: 19 Ekim 2026_
+_Son güncelleme: 21 Ekim 2026_
 
 AstroLuna'yı kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
 
@@ -18,7 +18,7 @@ AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerini
 
 - Uygulamayı kullanmaya başladığında, görünür bir kayıt adımı olmadan senin için anonim bir hesap açılır. E-posta adresini ya da telefon numaranı istemeyiz.
 - Doğum haritanı hesaplayabilmek için doğum tarihin, saatin ve yerin sunucumuzda saklanır.
-- Sosyal özellikler (Ruh Eşi, arkadaşlar, burç gruplarında yazmak) Apple ile giriş gerektirir.
+- Sosyal özellikler (Ruh Eşi, arkadaşlar, burç gruplarında yazmak) iPhone'da Apple ile, Android'de Google ile giriş gerektirir.
 - Bazı yorumlar yapay zekâ ile üretilir. Yapay zekâ sağlayıcısına yalnızca o yorum için gereken bilgi gönderilir; adın ve hesap bilgilerin hiçbir zaman gönderilmez.
 - Profil fotoğrafın ve Ay Günlüğün yalnızca telefonunda kalır. Ruh Eşi fotoğrafı isteğe bağlıdır; eklersen otomatik bir kontrolden sonra diğer Ruh Eşi kullanıcılarına gösterilir.
 - Hesabını uygulamanın içinden istediğin zaman kalıcı olarak silebilirsin.
@@ -28,9 +28,10 @@ AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerini
 
 ### 3.1 Hesap bilgileri
 
-- **Anonim hesap kimliği:** Uygulama ilk açılışta rastgele üretilmiş bir kullanıcı kimliği alır. Oturumun bu kimlikle sürer; oturum anahtarı telefonunun güvenli deposunda (iOS Anahtar Zinciri) saklanır.
-- **Kötüye kullanımı önleme:** Tek bir yerden çok sayıda hesap açılmasını önlemek için IP adresinin tuzlanmış, geri döndürülemez bir özetini (hash) kısa ömürlü bir sayaçta tutarız. IP adresinin kendisini saklamayız. Ayrıca Apple'ın DeviceCheck hizmetiyle, cihazının ücretsiz haklarını daha önce kullanıp kullanmadığını gösteren tek bir işareti (bir bit) kaydederiz. Bu işareti Apple saklar; seni ya da cihazını tanımlamaz.
+- **Anonim hesap kimliği:** Uygulama ilk açılışta rastgele üretilmiş bir kullanıcı kimliği alır. Oturumun bu kimlikle sürer; oturum anahtarı telefonunun güvenli deposunda (iOS Anahtar Zinciri ya da Android Keystore) saklanır.
+- **Kötüye kullanımı önleme:** Tek bir yerden çok sayıda hesap açılmasını önlemek için IP adresinin tuzlanmış, geri döndürülemez bir özetini (hash) kısa ömürlü bir sayaçta tutarız. IP adresinin kendisini saklamayız. iPhone'da ayrıca Apple'ın DeviceCheck hizmetiyle, cihazının ücretsiz haklarını daha önce kullanıp kullanmadığını gösteren tek bir işareti (bir bit) kaydederiz. Bu işareti Apple saklar; seni ya da cihazını tanımlamaz.
 - **Apple ile giriş (isteğe bağlı):** Apple ile giriş yaparsan Apple'ın sana verdiği kullanıcı kimliğini, Apple'ın ilk girişte paylaştığı e-posta adresini ("E-postamı Gizle"yi seçtiysen Apple'ın yönlendirme adresi) ve girişini sonradan iptal edebilmemiz için Apple'ın verdiği yenileme anahtarını saklarız. Apple şifreni hiçbir zaman görmeyiz.
+- **Google ile giriş (isteğe bağlı, Android):** Google ile giriş yaparsan Google'ın sana verdiği kullanıcı kimliğini ve Google'ın doğruladığı e-posta adresini saklarız. Google şifreni hiçbir zaman görmeyiz.
 
 ### 3.2 Profil ve doğum bilgileri
 
@@ -46,14 +47,15 @@ Doğum yerini listeden sen seçersin. Cihazının konum servislerini (GPS) kulla
 - **Kişisel yorumlar ve raporlar:** Kişisel günlük, haftalık ve aylık yorumların ile yıllık raporun, yeniden üretilmesin diye sunucumuzda saklanır.
 - **Luna ve Tarot'a Sor:** Sorun, yanıtın üretilmesi için işlenir. Hakkını takip etmek için yalnızca kaç soru sorduğunu sayarız.
 - **Rüya Yorumu:** Yazdığın rüya, seçtiğin duygu ve yorum; rüya geçmişini ve örüntülerini gösterebilmek için saklanır.
-- **El Falı ve Kahve Falı:** Çektiğin fotoğraflar, yorumun üretilmesi için yapay zekâ sağlayıcımıza gönderilir. **Fotoğrafları sunucularımızda saklamayız.** Yalnızca yorum metni saklanır.
+- **El Falı ve Kahve Falı:** Çektiğin fotoğraflar, yorumun üretilmesi için yapay zekâ sağlayıcımıza gönderilir. **Fotoğrafları sunucularımızda saklamayız.** Geçmiş el ve kahve fallarını sonradan yeniden açabilmen için yalnızca yorum metni saklanır. Fotoğrafın küçük bir önizlemesi yalnızca telefonunda kalır (bkz. 3.5).
+- **Geçmiş fallar ve yorumlar:** Geçmiş el falı, kahve falı ve rüya yorumların (yalnızca metin), sen uygulamadan silene ya da hesabını silene kadar sunucularımızda saklanır. Tek bir falı sildiğinde metni silinir; kullanım hakkının doğru sayılabilmesi için yalnızca oluşturulduğu tarih kalır, o da hesabınla birlikte silinir.
 - **Ruh Eşi (yalnızca katılırsan):** Görünen adın, doğum tarihinden hesaplanan yaşın ve burçların, şehrin, tanıtım yazın, kimleri görmek istediğin, beğenilerin ve geçtiklerin, eşleşmelerin, engellediğin ya da şikâyet ettiğin kişiler.
 - **Ruh Eşi fotoğrafı (isteğe bağlı):** Ruh Eşi kartına fotoğraf eklersen sunucumuzda (Cloudflare) saklanır ve diğer Ruh Eşi kullanıcılarına gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar (ör. cinsel ya da şiddet içeren) reddedilir, kontrol yapılamazsa fotoğraf yayınlanmaz. İstediğin zaman kaldırabilir ya da değiştirebilirsin; kaldırılan ya da değiştirilen fotoğraf sunucumuzdan silinir.
 - **Mesajlar:** Ruh Eşi eşleşmelerinde, arkadaşlarınla ve burç gruplarında yazdığın mesajlar ile gönderdiğin fotoğraf, video ve sesli mesajlar; iletilebilmeleri ve sohbet geçmişinin görünebilmesi için sunucumuzda saklanır. Tepkiler ve okundu bilgisi de saklanır.
 - **Arkadaşlar:** Arkadaş kodun, arkadaşlık istekleri ve arkadaş listen.
 - **Burç grupları:** Katıldığın gruplar ve grup tercihlerin.
-- **Bildirimler:** Sana bildirim gönderebilmemiz için Apple'ın verdiği cihaz bildirim anahtarı ve bildirim tercihlerin.
-- **Premium abonelik:** Aboneliğinin geçerli olup olmadığını kontrol etmek için Apple'dan gelen işlem kimliği, ürün, durum ve bitiş tarihi. **Ödeme bilgilerini hiçbir zaman görmeyiz;** bütün ödemeleri Apple yürütür. Satın almalar RevenueCat üzerinden doğrulanır; RevenueCat anonim hesap kimliğini ve satın alma kayıtlarını alır. Uygulamayı bir Apple Search Ads reklamından indirdiysen, hangi kampanyaların işe yaradığını ölçebilmemiz için Apple'ın anonim kaynak belirteci de RevenueCat'e gönderilir; bu belirteç seni tanımlamaz ve seni takip etmek için kullanılmaz.
+- **Bildirimler:** Sana bildirim gönderebilmemiz için telefonunun verdiği cihaz bildirim anahtarı (iPhone'da Apple'dan, Android'de Google'ın Firebase Cloud Messaging hizmetinden) ve bildirim tercihlerin. Bu anahtar seni değil, yalnızca telefonundaki uygulama kurulumunu tanımlar.
+- **Premium abonelik:** Aboneliğinin geçerli olup olmadığını kontrol etmek için App Store'dan (Apple) ya da Google Play'den (Google) gelen işlem kimliği, ürün, durum ve bitiş tarihi. **Ödeme bilgilerini hiçbir zaman görmeyiz;** bütün ödemeleri Apple ya da Google yürütür; Android'de satın almalar Google Play Faturalandırma üzerinden işlenir. Satın almalar RevenueCat üzerinden doğrulanır; RevenueCat anonim hesap kimliğini ve satın alma kayıtlarını alır. iPhone'da, uygulamayı bir Apple Search Ads reklamından indirdiysen, hangi kampanyaların işe yaradığını ölçebilmemiz için Apple'ın anonim kaynak belirteci de RevenueCat'e gönderilir; bu belirteç seni tanımlamaz ve seni takip etmek için kullanılmaz.
 
 ### 3.4 Teknik bilgiler
 
@@ -61,11 +63,13 @@ Sunucularımıza gelen her istek, altyapı sağlayıcımız Cloudflare tarafınd
 
 ### 3.5 Telefonunda kalan bilgiler
 
-Şunlar sunucularımıza hiç gönderilmez: profil fotoğrafın (isteğe bağlı Ruh Eşi fotoğrafı ayrıdır, yukarıya bak), Ay Günlüğü notların, tarot kart seçimlerin, test sonuçların, astroloji dersi ilerlemen, seri sayacın, uygulama tercihlerin ve sohbetlerinin telefondaki önbellek kopyası. Ana ekran araç takımlarının (widget) ihtiyaç duyduğu az miktardaki bilgi de yalnızca telefonunda tutulur. Uygulamayı silmek bu bilgileri de siler.
+Şunlar sunucularımıza hiç gönderilmez: profil fotoğrafın (isteğe bağlı Ruh Eşi fotoğrafı ayrıdır, yukarıya bak), Ay Günlüğü notların, tarot kart seçimlerin, test sonuçların, astroloji dersi ilerlemen, seri sayacın, uygulama tercihlerin ve sohbetlerinin telefondaki önbellek kopyası. Ana ekran araç takımlarının (widget) ihtiyaç duyduğu az miktardaki bilgi de yalnızca telefonunda tutulur. El ve kahve falı fotoğraflarının küçük bir önizlemesi (yaklaşık 256 piksel), fal geçmişinde gösterilebilmesi için yalnızca telefonunda saklanır; hiçbir yere yeniden yüklenmez ve o falı sildiğinde, oturumu kapattığında ya da hesabını sildiğinde silinir. Uygulamayı silmek bu bilgileri de siler.
 
 ### 3.6 Toplamadığımız bilgiler
 
-Rehberini, kesin ya da yaklaşık konumunu, sağlık verilerini, reklam kimliğini (IDFA) ve gezinme geçmişini toplamayız. Uygulamada reklam, analiz, çökme raporlama ya da kullanıcı izleme aracı yoktur; bu yüzden uygulama izleme izni (App Tracking Transparency) istemez.
+Rehberini, cihazının kesin ya da yaklaşık konumunu, sağlık verilerini, reklam kimliğini (iPhone'da IDFA, Android'de Reklam Kimliği) ve gezinme geçmişini toplamayız. Elimizdeki yer bilgileri yalnızca seçtiğin doğum yeri ve eklersen Ruh Eşi kartına yazdığın şehirdir. Uygulamada reklam, analiz, çökme raporlama ya da kullanıcı izleme aracı yoktur; bu yüzden uygulama izleme izni (App Tracking Transparency) istemez.
+
+App Store sayfamızdaki (Uygulama Gizliliği) ve Google Play sayfamızdaki (Veri güvenliği) gizlilik bilgileri bu politikaya dayanır.
 
 ## 4. Bilgilerini neden kullanıyoruz ve hukuki dayanaklarımız
 
@@ -99,6 +103,7 @@ Genel burç yorumları, numeroloji ve uyum metinleri kişiye özel değildir; he
   - **Cloudflare, Inc.**: sunucu, veritabanı ve dosya depolama altyapısı.
   - **OpenAI, L.L.C.**: yapay zekâ ile yorum üretimi ve içerik denetimi.
   - **Apple Inc.**: Apple ile giriş, bildirim iletimi (APNs), DeviceCheck, uygulama içi satın alma ve abonelik doğrulaması.
+  - **Google LLC**: Android'de Google ile giriş, bildirim iletimi (Firebase Cloud Messaging) ve Google Play üzerinden uygulama içi satın alma ve abonelik faturalandırması. Google, ödemeni işlemek için gereken satın alma bilgilerini; bildirimler için de bildirim anahtarını ve bildirimin içeriğini alır.
   - **RevenueCat, Inc.**: abonelik yönetimi ve satın alma doğrulaması.
   - **GitHub, Inc.**: bu yasal sayfaların barındırılması (kişisel veri işlenmez).
 - **Yasal zorunluluklar:** Mahkeme kararı ya da yasal bir yükümlülük gerektirdiğinde, yalnızca gerektiği kadar bilgiyi yetkili makamlarla paylaşabiliriz.
@@ -113,7 +118,8 @@ Hizmet sağlayıcılarımız bilgilerini, başta Amerika Birleşik Devletleri ve
 
 - **Hesap, profil, yorumlar, rüyalar, Ruh Eşi kartı, arkadaşlar ve mesajlar:** hesabın var olduğu sürece ya da sen silene kadar.
 - **Ruh Eşi fotoğrafı:** sen kaldırana, değiştirene ya da hesabını silene kadar; sonra sunucumuzdan silinir. Bir eşleşmeyi kaldırdığında ya da birini engellediğinde, o kişiyle olan sohbetin ve içindeki dosyalar ikiniz için de kalıcı olarak silinir. Bir mesajı gönderdikten sonraki 1 saat içinde herkesten silebilirsin.
-- **El ve Kahve Falı fotoğrafları:** bizde saklanmaz; yalnızca yorum üretilirken işlenir.
+- **Geçmiş el falı, kahve falı ve rüya yorumları (metin):** sen uygulamadan silene ya da hesabını silene kadar.
+- **El ve Kahve Falı fotoğrafları:** sunucularımızda saklanmaz; yalnızca yorum üretilirken işlenir. Küçük bir önizlemesi, falı silene, oturumu kapatana ya da hesabını silene kadar yalnızca telefonunda kalır.
 - **Dosya yükleme sayaçları:** 2 gün.
 - **Hesap açma sayacı (IP özeti):** kısa ömürlüdür ve seninle ilişkilendirilmez.
 - **Şikâyetler:** Başka bir kullanıcı seni şikâyet ettiyse, şikâyet ve kanıt olarak eklenen mesajlar, hesabını silsen bile güvenlik ve hukuki yükümlülükler için gerektiği sürece saklanabilir.
@@ -123,10 +129,12 @@ Hizmet sağlayıcılarımız bilgilerini, başta Amerika Birleşik Devletleri ve
 Hesabını istediğin zaman Profil › Hesabımı Sil adımıyla silebilirsin. Silme işlemi:
 
 - profilini, doğum bilgilerini, yorumlarını ve raporlarını, rüya ve fal kayıtlarını, Ruh Eşi kartını ve fotoğrafını, beğenilerini, eşleşmelerini, arkadaşlıklarını, gönderdiğin mesajları ve dosyaları, bildirim anahtarını ve abonelik kaydını sunucularımızdan **kalıcı olarak** siler;
-- Apple ile giriş yaptıysan Apple girişini iptal eder;
+- Apple ile giriş yaptıysan Apple girişini iptal eder, Google ile giriş yaptıysan Google hesabınla bağlantıyı kaldırır;
 - telefonundaki sohbet önbelleğini ve oturumunu temizler.
 
-Silme işlemi geri alınamaz. **Hesabını silmek Premium aboneliğini iptal etmez.** Aboneliği iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ayrıca iptal etmelisin.
+Silme işlemi geri alınamaz. **Hesabını silmek Premium aboneliğini iptal etmez.** Aboneliği iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ya da Android'de Google Play Store uygulaması › profil simgesi › Ödemeler ve abonelikler › Abonelikler bölümünden ayrıca iptal etmelisin.
+
+Uygulamayı artık kullanamıyorsan (örneğin sildiysen) hesabının silinmesini e-postayla da isteyebilirsin: "Hesabımı sil" konusuyla ergun.app.dev@gmail.com adresine yaz ve hesabını bulmamıza yardımcı olacak bir bilgi ekle; örneğin hesap kimliğin (uygulamanın hazırladığı destek e-postasında yer alır), arkadaş kodun, Ruh Eşi'ndeki görünen adın ya da Apple veya Google ile girişte kullandığın e-posta adresi. Hesabı ve yukarıda sayılan verileri 30 gün içinde siler, e-postayla haber veririz.
 
 ## 10. Güvenlik
 
@@ -160,7 +168,7 @@ AstroLuna 13 yaşından küçükler için tasarlanmamıştır ve bu yaştaki ço
 
 ## 14. Bildirimler
 
-Bildirim yalnızca iznin varsa göndeririz. Her bildirim türünü Profil › Hesap ve tercihler'den ayrı ayrı açıp kapatabilir ya da bütün bildirimleri iPhone Ayarları'ndan kapatabilirsin. Mesaj bildirimleri gönderenin adını ve kısa bir önizlemeyi içerebilir ve Apple'ın bildirim hizmeti üzerinden iletilir. Günlük burç hatırlatmaları sunucularımız kullanılmadan, telefonunda planlanır.
+Bildirim yalnızca iznin varsa göndeririz. Her bildirim türünü Profil › Hesap ve tercihler'den ayrı ayrı açıp kapatabilir ya da bütün bildirimleri telefonunun ayarlarından kapatabilirsin. Mesaj bildirimleri gönderenin adını ve kısa bir önizlemeyi içerebilir; iPhone'da Apple'ın bildirim hizmeti, Android'de Google'ın Firebase Cloud Messaging hizmeti üzerinden iletilir. Günlük burç hatırlatmaları sunucularımız kullanılmadan, telefonunda planlanır.
 
 ## 15. Değişiklikler
 
