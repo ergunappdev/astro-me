@@ -4,7 +4,7 @@ title: Terms of Use
 
 # Terms of Use
 
-_Last updated: October 21, 2026_
+_Last updated: October 29, 2026_
 
 These Terms of Use ("Terms") govern your use of the AstroLuna mobile app ("AstroLuna", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
 
@@ -78,6 +78,18 @@ Soulmate, chats, friends and sign groups are places where you talk to real peopl
 - trying to disrupt, overload or reverse engineer the app or its servers, access other users' accounts, or use the app with automated tools (bots, scrapers).
 
 We have **zero tolerance** for these behaviors. In particular, child sexual abuse and exploitation (CSAE), including child sexual abuse material (CSAM), grooming and sextortion, is strictly prohibited: we remove such content, close the accounts involved and report it to the competent authorities as required by law. Child safety contact: ergun.app.dev@gmail.com.
+
+
+### Copyright complaints
+
+If you believe content shared in AstroLuna (for example a photo on a Soulmate card or in a chat) infringes your copyright, email **ergun.app.dev@gmail.com** with the subject "Copyright complaint" and include:
+
+- your name and contact details, and a statement that you are the owner or authorised to act on the owner's behalf;
+- a description of the copyrighted work;
+- where the content appears in the app (for example the Soulmate display name, the date and a screenshot), detailed enough for us to find it;
+- a statement that you believe in good faith that the use is not authorised, and that the information in your notice is accurate.
+
+We review notices promptly, usually within 48 hours, remove or disable access to infringing content and inform the user who shared it. If you believe your content was removed by mistake, reply to our email with an explanation and we will review it again. We close the accounts of users who repeatedly infringe.
 
 ## 9. Reporting, blocking and moderation
 

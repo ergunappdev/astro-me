@@ -4,7 +4,7 @@ title: Kullanım Koşulları
 
 # Kullanım Koşulları
 
-_Son güncelleme: 21 Ekim 2026_
+_Son güncelleme: 29 Ekim 2026_
 
 Bu Kullanım Koşulları ("Koşullar"), AstroLuna mobil uygulamasını ("AstroLuna", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
 
@@ -78,6 +78,18 @@ Ruh Eşi, sohbetler, arkadaşlar ve burç grupları gerçek insanlarla konuştu�
 - uygulamayı veya sunucularını bozmaya, aşırı yüklemeye ya da tersine mühendislikle çözmeye çalışmak, başkalarının hesaplarına erişmek ya da uygulamayı otomatik araçlarla (bot, kazıyıcı) kullanmak.
 
 Bu davranışlara **sıfır tolerans** gösteririz. Özellikle çocuk istismarı ve sömürüsü (CSAE); çocuk istismarı içeren materyaller (CSAM), çocukları cinsel amaçla kandırma (grooming) ve cinsel şantaj dahil, kesinlikle yasaktır: Bu tür içeriği kaldırır, ilgili hesapları kapatır ve yasaların gerektirdiği şekilde yetkili makamlara bildiririz. Çocuk güvenliği iletişim adresi: ergun.app.dev@gmail.com.
+
+
+### Telif hakkı şikâyetleri
+
+AstroLuna'da paylaşılan bir içeriğin (örneğin Ruh Eşi kartındaki ya da sohbetteki bir fotoğrafın) telif hakkını ihlal ettiğini düşünüyorsan "Telif hakkı şikâyeti" konusuyla **ergun.app.dev@gmail.com** adresine yaz ve şunları ekle:
+
+- adın ve iletişim bilgilerin; eserin sahibi olduğunu ya da sahibi adına hareket etmeye yetkili olduğunu belirten bir beyan;
+- telif hakkıyla korunan eserin açıklaması;
+- içeriğin uygulamada nerede olduğu (örneğin Ruh Eşi'ndeki görünen ad, tarih ve ekran görüntüsü), bulabilmemize yetecek ayrıntıyla;
+- kullanımın izinsiz olduğuna iyi niyetle inandığına ve bildirimindeki bilgilerin doğru olduğuna dair bir beyan.
+
+Bildirimleri hızla, genellikle 48 saat içinde inceler; ihlal eden içeriği kaldırır ya da erişime kapatır ve paylaşan kullanıcıya haber veririz. İçeriğinin yanlışlıkla kaldırıldığını düşünüyorsan e-postamıza açıklamanla cevap ver, yeniden inceleriz. Tekrar tekrar ihlal eden kullanıcıların hesaplarını kapatırız.
 
 ## 9. Şikâyet, engelleme ve denetim
 
