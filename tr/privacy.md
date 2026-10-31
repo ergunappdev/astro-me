@@ -20,7 +20,7 @@ AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerini
 - Doğum haritanı hesaplayabilmek için doğum tarihin, saatin ve yerin sunucumuzda saklanır.
 - Sosyal özellikler (Ruh Eşi, arkadaşlar, burç gruplarında yazmak) iPhone'da Apple ile, Android'de Google ile giriş gerektirir.
 - Bazı yorumlar yapay zekâ ile üretilir. Yapay zekâ sağlayıcısına yalnızca o yorum için gereken bilgi gönderilir; adın ve hesap bilgilerin hiçbir zaman gönderilmez.
-- Ay Günlüğün yalnızca telefonunda kalır. Güvenli sohbet bildirimini kabul edersen profil fotoğrafın otomatik bir kontrolden sonra arkadaşlarına gösterilir. Ruh Eşi fotoğrafı isteğe bağlıdır; eklersen otomatik bir kontrolden sonra diğer Ruh Eşi kullanıcılarına gösterilir.
+- Ay Günlüğün yalnızca telefonunda kalır. Fotoğraf güvenlik kontrolüne izin verirsen profil fotoğrafın otomatik bir kontrolden sonra arkadaşlarına gösterilir. Ruh Eşi fotoğrafı isteğe bağlıdır; eklersen otomatik bir kontrolden sonra diğer Ruh Eşi kullanıcılarına gösterilir.
 - Hesabını uygulamanın içinden istediğin zaman kalıcı olarak silebilirsin.
 - Reklam, analiz ya da izleme aracı kullanmıyoruz.
 
@@ -51,7 +51,7 @@ Doğum yerini listeden sen seçersin. Cihazının konum servislerini (GPS) kulla
 - **Geçmiş fallar ve yorumlar:** Geçmiş el falı, kahve falı ve rüya yorumların (yalnızca metin), sen uygulamadan silene ya da hesabını silene kadar sunucularımızda saklanır. Tek bir falı sildiğinde metni silinir; kullanım hakkının doğru sayılabilmesi için yalnızca oluşturulduğu tarih kalır, o da hesabınla birlikte silinir.
 - **Ruh Eşi (yalnızca katılırsan):** Görünen adın, doğum tarihinden hesaplanan yaşın ve burçların, şehrin, tanıtım yazın, kimleri görmek istediğin, beğenilerin ve geçtiklerin, eşleşmelerin, engellediğin ya da şikâyet ettiğin kişiler.
 - **Ruh Eşi fotoğrafı (isteğe bağlı):** Ruh Eşi kartına fotoğraf eklersen sunucumuzda (Cloudflare) saklanır ve diğer Ruh Eşi kullanıcılarına gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar (ör. cinsel ya da şiddet içeren) reddedilir, kontrol yapılamazsa fotoğraf yayınlanmaz. İstediğin zaman kaldırabilir ya da değiştirebilirsin; kaldırılan ya da değiştirilen fotoğraf sunucumuzdan silinir.
-- **Profil fotoğrafı:** Güvenli sohbet bildirimini kabul edersen profil fotoğrafın sunucumuzda (Cloudflare) saklanır ve arkadaşlarına (arkadaş listesi, arkadaş sayfası ve sohbet) gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar yayınlanmaz. Kaldırdığında ya da değiştirdiğinde eski fotoğraf sunucumuzdan silinir. Kabul etmezsen profil fotoğrafın yalnızca telefonunda kalır.
+- **Profil fotoğrafı:** Fotoğraf güvenlik kontrolüne izin verirsen profil fotoğrafın sunucumuzda (Cloudflare) saklanır ve arkadaşlarına (arkadaş listesi, arkadaş sayfası ve sohbet) gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar yayınlanmaz. Kaldırdığında ya da değiştirdiğinde eski fotoğraf sunucumuzdan silinir. Kabul etmezsen profil fotoğrafın yalnızca telefonunda kalır.
 - **Mesajlar:** Ruh Eşi eşleşmelerinde, arkadaşlarınla ve burç gruplarında yazdığın mesajlar ile gönderdiğin fotoğraf, video ve sesli mesajlar; iletilebilmeleri ve sohbet geçmişinin görünebilmesi için sunucumuzda saklanır. Tepkiler ve okundu bilgisi de saklanır.
 - **Arkadaşlar:** Arkadaş kodun, arkadaşlık istekleri ve arkadaş listen.
 - **Burç grupları:** Katıldığın gruplar ve grup tercihlerin.
@@ -95,7 +95,7 @@ Luna'nın yanıtları, kişisel yorumlar, yıllık rapor ve rüya, el ve kahve f
 
 **Adın, e-posta adresin, hesap kimliğin ve kesin doğum tarihin yapay zekâ sağlayıcısına gönderilmez.** OpenAI, API üzerinden gönderilen verileri modellerini eğitmek için kullanmadığını ve kötüye kullanımı izlemek için en fazla 30 gün sakladığını belirtir.
 
-Herkesin güvenliği için sohbetlerdeki mesajlar ve görseller otomatik bir içerik denetiminden (OpenAI moderasyon hizmeti) geçer. Taciz, nefret söylemi, şiddet ya da başka yasak içerik tespit edilirse mesaj kaldırılır. Profil fotoğrafları ve Ruh Eşi fotoğrafları kimseye gösterilmeden önce her zaman aynı denetimden geçer; denetimi geçemeyen fotoğraf yayınlanmaz. Uygulama ilk mesaj ya da fotoğraf denetlenmeden önce iznini ister (Güvenli sohbet).
+Herkesin güvenliği için sohbetlerde ve burç gruplarında yazdığın mesajlar sunucumuzdaki kendi kelime filtremizle denetlenir; hiçbir yapay zekâ sağlayıcısına gönderilmez. Tehditler her yerde engellenir; herkese açık burç gruplarında ağır küfür, açık cinsel içerik ve nefret söylemi de engellenir. Gönderdiğin fotoğraf ve videolar, profil ve Ruh Eşi fotoğrafların ve burç gruplarındaki sesli mesajların gösterilmeden önce OpenAI'nin otomatik denetim hizmetinden geçer; denetimi geçemeyen içerik yayınlanmaz ve kaydedilmez. Uygulama ilk fotoğraf, video ya da sesli mesaj denetlenmeden önce iznini ister (Fotoğraf güvenlik kontrolü). OpenAI bu içeriği model eğitiminde kullanmaz ve kötüye kullanımı önlemek için en fazla 30 gün saklayabilir.
 
 Genel burç yorumları, numeroloji ve uyum metinleri kişiye özel değildir; herkes için önceden yazılır ve seninle ilişkilendirilmez.
 
