@@ -4,7 +4,7 @@ title: Gizlilik Politikası
 
 # Gizlilik Politikası
 
-_Son güncelleme: 21 Ekim 2026_
+_Son güncelleme: 31 Ekim 2026_
 
 AstroLuna'yı kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
 
@@ -20,7 +20,7 @@ AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerini
 - Doğum haritanı hesaplayabilmek için doğum tarihin, saatin ve yerin sunucumuzda saklanır.
 - Sosyal özellikler (Ruh Eşi, arkadaşlar, burç gruplarında yazmak) iPhone'da Apple ile, Android'de Google ile giriş gerektirir.
 - Bazı yorumlar yapay zekâ ile üretilir. Yapay zekâ sağlayıcısına yalnızca o yorum için gereken bilgi gönderilir; adın ve hesap bilgilerin hiçbir zaman gönderilmez.
-- Profil fotoğrafın ve Ay Günlüğün yalnızca telefonunda kalır. Ruh Eşi fotoğrafı isteğe bağlıdır; eklersen otomatik bir kontrolden sonra diğer Ruh Eşi kullanıcılarına gösterilir.
+- Ay Günlüğün yalnızca telefonunda kalır. Güvenli sohbet bildirimini kabul edersen profil fotoğrafın otomatik bir kontrolden sonra arkadaşlarına gösterilir. Ruh Eşi fotoğrafı isteğe bağlıdır; eklersen otomatik bir kontrolden sonra diğer Ruh Eşi kullanıcılarına gösterilir.
 - Hesabını uygulamanın içinden istediğin zaman kalıcı olarak silebilirsin.
 - Reklam, analiz ya da izleme aracı kullanmıyoruz.
 
@@ -51,6 +51,7 @@ Doğum yerini listeden sen seçersin. Cihazının konum servislerini (GPS) kulla
 - **Geçmiş fallar ve yorumlar:** Geçmiş el falı, kahve falı ve rüya yorumların (yalnızca metin), sen uygulamadan silene ya da hesabını silene kadar sunucularımızda saklanır. Tek bir falı sildiğinde metni silinir; kullanım hakkının doğru sayılabilmesi için yalnızca oluşturulduğu tarih kalır, o da hesabınla birlikte silinir.
 - **Ruh Eşi (yalnızca katılırsan):** Görünen adın, doğum tarihinden hesaplanan yaşın ve burçların, şehrin, tanıtım yazın, kimleri görmek istediğin, beğenilerin ve geçtiklerin, eşleşmelerin, engellediğin ya da şikâyet ettiğin kişiler.
 - **Ruh Eşi fotoğrafı (isteğe bağlı):** Ruh Eşi kartına fotoğraf eklersen sunucumuzda (Cloudflare) saklanır ve diğer Ruh Eşi kullanıcılarına gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar (ör. cinsel ya da şiddet içeren) reddedilir, kontrol yapılamazsa fotoğraf yayınlanmaz. İstediğin zaman kaldırabilir ya da değiştirebilirsin; kaldırılan ya da değiştirilen fotoğraf sunucumuzdan silinir.
+- **Profil fotoğrafı:** Güvenli sohbet bildirimini kabul edersen profil fotoğrafın sunucumuzda (Cloudflare) saklanır ve arkadaşlarına (arkadaş listesi, arkadaş sayfası ve sohbet) gösterilir. Yayınlanmadan önce OpenAI'nin moderasyon hizmetiyle otomatik olarak kontrol edilir; kurallara uymayan fotoğraflar yayınlanmaz. Kaldırdığında ya da değiştirdiğinde eski fotoğraf sunucumuzdan silinir. Kabul etmezsen profil fotoğrafın yalnızca telefonunda kalır.
 - **Mesajlar:** Ruh Eşi eşleşmelerinde, arkadaşlarınla ve burç gruplarında yazdığın mesajlar ile gönderdiğin fotoğraf, video ve sesli mesajlar; iletilebilmeleri ve sohbet geçmişinin görünebilmesi için sunucumuzda saklanır. Tepkiler ve okundu bilgisi de saklanır.
 - **Arkadaşlar:** Arkadaş kodun, arkadaşlık istekleri ve arkadaş listen.
 - **Burç grupları:** Katıldığın gruplar ve grup tercihlerin.
@@ -63,7 +64,7 @@ Sunucularımıza gelen her istek, altyapı sağlayıcımız Cloudflare tarafınd
 
 ### 3.5 Telefonunda kalan bilgiler
 
-Şunlar sunucularımıza hiç gönderilmez: profil fotoğrafın (isteğe bağlı Ruh Eşi fotoğrafı ayrıdır, yukarıya bak), Ay Günlüğü notların, tarot kart seçimlerin, test sonuçların, astroloji dersi ilerlemen, seri sayacın, uygulama tercihlerin ve sohbetlerinin telefondaki önbellek kopyası. Ana ekran araç takımlarının (widget) ihtiyaç duyduğu az miktardaki bilgi de yalnızca telefonunda tutulur. El ve kahve falı fotoğraflarının küçük bir önizlemesi (yaklaşık 256 piksel), fal geçmişinde gösterilebilmesi için yalnızca telefonunda saklanır; hiçbir yere yeniden yüklenmez ve o falı sildiğinde, oturumu kapattığında ya da hesabını sildiğinde silinir. Uygulamayı silmek bu bilgileri de siler.
+Şunlar sunucularımıza hiç gönderilmez: Ay Günlüğü notların, tarot kart seçimlerin, test sonuçların, astroloji dersi ilerlemen, seri sayacın, uygulama tercihlerin ve sohbetlerinin telefondaki önbellek kopyası. Ana ekran araç takımlarının (widget) ihtiyaç duyduğu az miktardaki bilgi de yalnızca telefonunda tutulur. El ve kahve falı fotoğraflarının küçük bir önizlemesi (yaklaşık 256 piksel), fal geçmişinde gösterilebilmesi için yalnızca telefonunda saklanır; hiçbir yere yeniden yüklenmez ve o falı sildiğinde, oturumu kapattığında ya da hesabını sildiğinde silinir. Uygulamayı silmek bu bilgileri de siler.
 
 ### 3.6 Toplamadığımız bilgiler
 
@@ -90,9 +91,11 @@ Luna'nın yanıtları, kişisel yorumlar, yıllık rapor ve rüya, el ve kahve f
 - **Rüya Yorumu:** rüya metnin, seçtiğin duygu ve Ay burcun.
 - **El ve Kahve Falı:** gönderdiğin fotoğraflar.
 
+**İlk yapay zekâ isteğinden önce uygulama bunu açıklar ve iznini ister.** İzin vermezsen bu özellikler kapalı kalır, uygulamanın geri kalanı çalışmaya devam eder. Kararını istediğin zaman Profil › Hesap ve tercihler'den değiştirebilirsin.
+
 **Adın, e-posta adresin, hesap kimliğin ve kesin doğum tarihin yapay zekâ sağlayıcısına gönderilmez.** OpenAI, API üzerinden gönderilen verileri modellerini eğitmek için kullanmadığını ve kötüye kullanımı izlemek için en fazla 30 gün sakladığını belirtir.
 
-Herkesin güvenliği için sohbetlerdeki mesajlar ve görseller otomatik bir içerik denetiminden (OpenAI moderasyon hizmeti) geçer. Taciz, nefret söylemi, şiddet ya da başka yasak içerik tespit edilirse mesaj kaldırılır. Ruh Eşi fotoğrafları kimseye gösterilmeden önce her zaman aynı denetimden geçer; denetimi geçemeyen fotoğraf yayınlanmaz.
+Herkesin güvenliği için sohbetlerdeki mesajlar ve görseller otomatik bir içerik denetiminden (OpenAI moderasyon hizmeti) geçer. Taciz, nefret söylemi, şiddet ya da başka yasak içerik tespit edilirse mesaj kaldırılır. Profil fotoğrafları ve Ruh Eşi fotoğrafları kimseye gösterilmeden önce her zaman aynı denetimden geçer; denetimi geçemeyen fotoğraf yayınlanmaz. Uygulama ilk mesaj ya da fotoğraf denetlenmeden önce iznini ister (Güvenli sohbet).
 
 Genel burç yorumları, numeroloji ve uyum metinleri kişiye özel değildir; herkes için önceden yazılır ve seninle ilişkilendirilmez.
 
@@ -117,6 +120,7 @@ Hizmet sağlayıcılarımız bilgilerini, başta Amerika Birleşik Devletleri ve
 ## 8. Bilgileri ne kadar saklıyoruz
 
 - **Hesap, profil, yorumlar, rüyalar, Ruh Eşi kartı, arkadaşlar ve mesajlar:** hesabın var olduğu sürece ya da sen silene kadar.
+- **Profil fotoğrafı (sunucumuzda):** sen kaldırana, değiştirene ya da hesabını silene kadar.
 - **Ruh Eşi fotoğrafı:** sen kaldırana, değiştirene ya da hesabını silene kadar; sonra sunucumuzdan silinir. Bir eşleşmeyi kaldırdığında ya da birini engellediğinde, o kişiyle olan sohbetin ve içindeki dosyalar ikiniz için de kalıcı olarak silinir. Bir mesajı gönderdikten sonraki 1 saat içinde herkesten silebilirsin.
 - **Geçmiş el falı, kahve falı ve rüya yorumları (metin):** sen uygulamadan silene ya da hesabını silene kadar.
 - **El ve Kahve Falı fotoğrafları:** sunucularımızda saklanmaz; yalnızca yorum üretilirken işlenir. Küçük bir önizlemesi, falı silene, oturumu kapatana ya da hesabını silene kadar yalnızca telefonunda kalır.
