@@ -6,13 +6,13 @@ title: Privacy Policy
 
 _Last updated: October 31, 2026_
 
-When you use Soulastra, you trust us with personal information such as your birth details. This policy explains what we collect, why we collect it, who we share it with, how long we keep it and what rights you have. We do not sell your data, we do not use it for advertising and we do not track you across other apps or websites.
+When you use SoulAstra, you trust us with personal information such as your birth details. This policy explains what we collect, why we collect it, who we share it with, how long we keep it and what rights you have. We do not sell your data, we do not use it for advertising and we do not track you across other apps or websites.
 
 This policy is designed to meet the requirements of the EU and UK General Data Protection Regulation (GDPR), US state privacy laws such as the California Consumer Privacy Act (CCPA/CPRA), Turkey's Personal Data Protection Law (KVKK) and similar laws around the world. Region-specific information is in section 12.
 
 ## 1. Who we are
 
-The Soulastra mobile app ("Soulastra", "the app", "we", "us") is the controller of your personal data. For any privacy question or request, contact us at ergun.app.dev@gmail.com.
+The SoulAstra mobile app ("SoulAstra", "the app", "we", "us") is the controller of your personal data. For any privacy question or request, contact us at ergun.app.dev@gmail.com.
 
 ## 2. In short
 
@@ -168,7 +168,7 @@ Send requests to ergun.app.dev@gmail.com. To help us verify your identity, we re
 
 ## 13. Children
 
-Soulastra is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate and sign groups are open only to users aged 18 or older, calculated from the birth date; users under 18 can message only friends they add by code. If you learn that a child under 13 has given us information, contact us and we will delete it.
+SoulAstra is not intended for children under 13 and we do not knowingly collect information from them. If your country sets a higher minimum age for digital services (up to 16 in some EU countries), you must have a parent's or guardian's permission to use the app if you are below that age. Soulmate and sign groups are open only to users aged 18 or older, calculated from the birth date; users under 18 can message only friends they add by code. If you learn that a child under 13 has given us information, contact us and we will delete it.
 
 ## 14. Notifications
 

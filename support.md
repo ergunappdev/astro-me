@@ -10,7 +10,7 @@ Having a problem or have an idea? Write to us and we will get back to you as soo
 
 ## Contact
 
-Email: [ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com?subject=Soulastra%20Support)
+Email: [ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com?subject=SoulAstra%20Support)
 
 You can also write from inside the app: Profile › Support opens your mail app with a ready email. It automatically adds your account ID so we can find your account quickly. It never includes your name, birth details or messages.
 
@@ -38,7 +38,7 @@ Go to Profile › Delete My Account. Your account and all your data on our serve
 
 #### How do I cancel my subscription?
 
-On your iPhone go to Settings › [your name] › Subscriptions › Soulastra and tap Cancel Subscription. Cancel at least 24 hours before the end of the current period to avoid the next charge. You keep Premium until the end of the period you paid for.
+On your iPhone go to Settings › [your name] › Subscriptions › SoulAstra and tap Cancel Subscription. Cancel at least 24 hours before the end of the current period to avoid the next charge. You keep Premium until the end of the period you paid for.
 
 #### How do I get a refund?
 
@@ -56,7 +56,7 @@ Most of the app is free, including general daily, weekly and monthly horoscopes,
 
 #### Why is my reading different from another app?
 
-Apps use different house systems, zodiac systems and interpretation styles, and personal readings depend on your exact birth time and place. Soulastra calculates planet positions astronomically and writes readings for your own chart.
+Apps use different house systems, zodiac systems and interpretation styles, and personal readings depend on your exact birth time and place. SoulAstra calculates planet positions astronomically and writes readings for your own chart.
 
 #### Are the readings accurate?
 
@@ -84,7 +84,7 @@ Soulmate and sign groups are for users aged 18 and over, because they involve ta
 
 #### How do I turn notifications on or off?
 
-Go to Profile › Account and preferences to turn each notification type on or off. To turn off all notifications, go to iPhone Settings › Notifications › Soulastra.
+Go to Profile › Account and preferences to turn each notification type on or off. To turn off all notifications, go to iPhone Settings › Notifications › SoulAstra.
 
 ### Privacy
 

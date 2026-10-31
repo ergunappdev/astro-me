@@ -6,21 +6,21 @@ title: Kullanım Koşulları
 
 _Son güncelleme: 29 Ekim 2026_
 
-Bu Kullanım Koşulları ("Koşullar"), Soulastra mobil uygulamasını ("Soulastra", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
+Bu Kullanım Koşulları ("Koşullar"), SoulAstra mobil uygulamasını ("SoulAstra", "uygulama", "biz") kullanımını düzenler. Uygulamayı indirerek ya da kullanarak bu Koşulları, Gizlilik Politikamızı ve Sorumluluk Reddimizi kabul etmiş olursun. Kabul etmiyorsan lütfen uygulamayı kullanma.
 
 Lütfen şu bölümleri dikkatle oku: Premium abonelikler (madde 6), topluluk kuralları (madde 8) ve sorumluluğun sınırlandırılması (madde 13).
 
 ## 1. Hizmet
 
-Soulastra; doğum haritası hesaplama, günlük, haftalık, aylık ve yıllık burç yorumları, transitler, astro takvim, tarot, numeroloji, Human Design, rüya yorumu, el ve kahve falı, Luna adlı yapay zekâ asistanı, astroloji dersleri ve testleri, burç grupları, arkadaşlar ve Ruh Eşi (astrolojik uyuma göre insanlarla tanışma) gibi özellikler sunar.
+SoulAstra; doğum haritası hesaplama, günlük, haftalık, aylık ve yıllık burç yorumları, transitler, astro takvim, tarot, numeroloji, Human Design, rüya yorumu, el ve kahve falı, Luna adlı yapay zekâ asistanı, astroloji dersleri ve testleri, burç grupları, arkadaşlar ve Ruh Eşi (astrolojik uyuma göre insanlarla tanışma) gibi özellikler sunar.
 
 Uygulamadaki içerikler **eğlence ve kişisel keşif içindir**; profesyonel tavsiye değildir. Ayrıntılar için Sorumluluk Reddi'ne bak.
 
 Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldırabiliriz.
 
-## 2. Soulastra'yı kimler kullanabilir
+## 2. SoulAstra'yı kimler kullanabilir
 
-- Soulastra'yı kullanmak için **en az 13 yaşında** olmalısın. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa ve sen bu yaşın altındaysan, ebeveyninin ya da yasal velinin iznine ihtiyacın vardır.
+- SoulAstra'yı kullanmak için **en az 13 yaşında** olmalısın. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa ve sen bu yaşın altındaysan, ebeveyninin ya da yasal velinin iznine ihtiyacın vardır.
 - **Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır,** çünkü bu bölümlerde tanımadığın kişilerle konuşursun. 13–17 yaş arasındaki kullanıcılar, kodla eklediği arkadaşlarıyla yazışmak dahil diğer bütün özellikleri kullanabilir. Yaşın, verdiğin doğum tarihinden hesaplanır. Yaşı hakkında yanlış bilgi veren hesapları kapatırız.
 - Kurallarımızı ihlal ettiği için hesabı kapatılan kişiler yeni hesap açamaz.
 - Sana uygulanan yasalar yasaklıyorsa uygulamayı kullanamazsın.
@@ -35,7 +35,7 @@ Hizmeti geliştirmek için özellik ekleyebilir, değiştirebilir ya da kaldıra
 
 ## 4. Ücretsiz kullanım ve haklar
 
-Soulastra'nın birçok özelliği ücretsizdir. Bazıları ücretsiz kullanıcılara sınırlı sayıda sunulur; örneğin Luna'ya ve Tarot'a Sor'a toplamda birkaç soru ya da günlük belirli sayıda Ruh Eşi beğenisi. Ücretsiz haklar cihaza bağlıdır; bunları yenilemek için yeni hesap açmak bu Koşulların ihlalidir. Ücretsiz hakların kapsamını ve sayısını değiştirebiliriz.
+SoulAstra'nın birçok özelliği ücretsizdir. Bazıları ücretsiz kullanıcılara sınırlı sayıda sunulur; örneğin Luna'ya ve Tarot'a Sor'a toplamda birkaç soru ya da günlük belirli sayıda Ruh Eşi beğenisi. Ücretsiz haklar cihaza bağlıdır; bunları yenilemek için yeni hesap açmak bu Koşulların ihlalidir. Ücretsiz hakların kapsamını ve sayısını değiştirebiliriz.
 
 ## 5. Premium
 
@@ -48,7 +48,7 @@ Kötüye kullanımı ve aşırı maliyeti önlemek için yapay zekâ özellikler
 - **Planlar:** Haftalık, aylık ve yıllık abonelik planları sunulur. Güncel fiyatlar satın alma ekranında ve App Store'da ya da Google Play'de kendi para biriminle gösterilir ve geçerli vergileri içerebilir.
 - **Ödeme:** iPhone'da, satın almayı onayladığında ücret Apple tarafından Apple Kimliği hesabından alınır. Android'de ücret Google Play hesabından alınır ve ödemeyi Google, Google Play Faturalandırma üzerinden işler. Ödeme bilgilerine hiçbir zaman erişimimiz olmaz.
 - **Otomatik yenileme:** Aboneliğin, mevcut dönemin bitiminden **en az 24 saat önce** iptal edilmezse aynı süre ve aynı fiyatla **otomatik olarak yenilenir**. App Store'da yenileme ücreti, mevcut dönemin bitiminden önceki 24 saat içinde Apple Kimliği hesabından alınır; Google Play'de ise yeni dönem başladığında Google Play hesabından alınır.
-- **Yönetim ve iptal:** Aboneliğini iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ya da App Store hesap ayarlarından yönetebilir veya iptal edebilirsin. Android'de Google Play Store uygulamasını aç, profil simgene dokun ve Ödemeler ve abonelikler › Abonelikler › Soulastra › Aboneliği iptal et adımlarını izle ya da play.google.com/store/account/subscriptions adresine git. İptal mevcut dönemin sonunda geçerli olur; o zamana kadar Premium'u kullanmaya devam edersin.
+- **Yönetim ve iptal:** Aboneliğini iPhone'unda Ayarlar › [adın] › Abonelikler bölümünden ya da App Store hesap ayarlarından yönetebilir veya iptal edebilirsin. Android'de Google Play Store uygulamasını aç, profil simgene dokun ve Ödemeler ve abonelikler › Abonelikler › SoulAstra › Aboneliği iptal et adımlarını izle ya da play.google.com/store/account/subscriptions adresine git. İptal mevcut dönemin sonunda geçerli olur; o zamana kadar Premium'u kullanmaya devam edersin.
 - **Hesabını silmek aboneliğini iptal etmez.** Ödemeyi Apple ya da Google aldığı için aboneliği onlarda ayrıca iptal etmelisin.
 - **İade:** Bütün satın almalar Apple (App Store) ya da Google (Google Play) tarafından yürütülür. İade talebini Apple'ın kurallarına göre reportaproblem.apple.com adresinden Apple'a ya da Google Play'in iade politikasına göre Google'a (support.google.com/googleplay/answer/2479637) iletebilirsin. Doğrudan iade yapamayız. Yasal tüketici hakların saklıdır.
 - **Fiyat değişiklikleri:** Bir abonelik fiyatını değiştirirsek Apple ya da Google sana önceden haber verir ve gerektiğinde yeni fiyatı onaylamanı ister.
@@ -57,9 +57,9 @@ Kötüye kullanımı ve aşırı maliyeti önlemek için yapay zekâ özellikler
 
 ## 7. Apple App Store ve Google Play
 
-Uygulamayı Google Play'den indirdiysen, Google Play'i kullanımına Google Play Hizmet Şartları da uygulanır. Bu Koşullar Google ile değil, seninle Soulastra arasındadır; uygulamadan ve içeriğinden Google sorumlu değildir.
+Uygulamayı Google Play'den indirdiysen, Google Play'i kullanımına Google Play Hizmet Şartları da uygulanır. Bu Koşullar Google ile değil, seninle SoulAstra arasındadır; uygulamadan ve içeriğinden Google sorumlu değildir.
 
-Bu maddenin geri kalanı, uygulamayı App Store'dan indirdiysen geçerlidir. Bu Koşullar Apple ile değil, seninle Soulastra arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+Bu maddenin geri kalanı, uygulamayı App Store'dan indirdiysen geçerlidir. Bu Koşullar Apple ile değil, seninle SoulAstra arasındadır. Uygulamadan ve içeriğinden Apple değil biz sorumluyuz. Uygulamayı yalnızca App Store Hizmet Koşulları'nın izin verdiği şekilde ve sahip olduğun ya da kontrol ettiğin Apple cihazlarında kullanabilirsin. Apple'ın Lisanslı Uygulama Son Kullanıcı Lisans Sözleşmesi (Standart EULA) bu Koşullarla birlikte geçerlidir: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple ve bağlı şirketleri bu Koşulların üçüncü taraf lehtarıdır ve Koşulları sana karşı uygulayabilir. Apple'ın uygulama için bakım ya da destek sağlama yükümlülüğü yoktur. Uygulama geçerli bir garantiye uymazsa Apple'a bildirebilirsin; Apple varsa satın alma bedelini iade edebilir. Yasaların izin verdiği en geniş ölçüde Apple'ın başka bir garanti yükümlülüğü yoktur. Ürün sorumluluğu, tüketicinin korunması ya da fikri mülkiyet ihlali talepleri dahil, uygulamayla ilgili taleplerin karşılanmasından Apple sorumlu değildir.
 
@@ -82,7 +82,7 @@ Bu davranışlara **sıfır tolerans** gösteririz. Özellikle çocuk istismarı
 
 ### Telif hakkı şikâyetleri
 
-Soulastra'da paylaşılan bir içeriğin (örneğin Ruh Eşi kartındaki ya da sohbetteki bir fotoğrafın) telif hakkını ihlal ettiğini düşünüyorsan "Telif hakkı şikâyeti" konusuyla **ergun.app.dev@gmail.com** adresine yaz ve şunları ekle:
+SoulAstra'da paylaşılan bir içeriğin (örneğin Ruh Eşi kartındaki ya da sohbetteki bir fotoğrafın) telif hakkını ihlal ettiğini düşünüyorsan "Telif hakkı şikâyeti" konusuyla **ergun.app.dev@gmail.com** adresine yaz ve şunları ekle:
 
 - adın ve iletişim bilgilerin; eserin sahibi olduğunu ya da sahibi adına hareket etmeye yetkili olduğunu belirten bir beyan;
 - telif hakkıyla korunan eserin açıklaması;
@@ -111,7 +111,7 @@ Luna'nın yanıtları, kişisel yorumlar, raporlar ve rüya, el ve kahve falı y
 
 ## 12. Fikri mülkiyet
 
-Uygulamanın tasarımı, yazılımı, görselleri, metinleri, tarot ve burç çizimleri, logosu ve "Soulastra" adı bize ya da lisans verenlerimize aittir ve yasalarla korunur. Bu Koşullara uyduğun sürece, uygulamayı kişisel ve ticari olmayan kullanımın için kullanman amacıyla sana sınırlı, devredilemez ve geri alınabilir bir lisans veririz. Uygulamayı ya da içeriğini kopyalayamaz, değiştiremez, dağıtamaz, satamaz veya tersine mühendislikle çözemezsin. Uygulamanın paylaşım kartlarını kişisel kullanım için sosyal medyada paylaşabilirsin.
+Uygulamanın tasarımı, yazılımı, görselleri, metinleri, tarot ve burç çizimleri, logosu ve "SoulAstra" adı bize ya da lisans verenlerimize aittir ve yasalarla korunur. Bu Koşullara uyduğun sürece, uygulamayı kişisel ve ticari olmayan kullanımın için kullanman amacıyla sana sınırlı, devredilemez ve geri alınabilir bir lisans veririz. Uygulamayı ya da içeriğini kopyalayamaz, değiştiremez, dağıtamaz, satamaz veya tersine mühendislikle çözemezsin. Uygulamanın paylaşım kartlarını kişisel kullanım için sosyal medyada paylaşabilirsin.
 
 Konum verileri GeoNames'ten alınır (CC BY 4.0 lisanslı). Gezegen konumları açık kaynaklı astronomi kütüphaneleriyle hesaplanır.
 
@@ -120,7 +120,7 @@ Konum verileri GeoNames'ten alınır (CC BY 4.0 lisanslı). Gezegen konumları a
 - Uygulama **"olduğu gibi" ve "mevcut olduğu şekliyle"** sunulur. Yasaların izin verdiği en geniş ölçüde; kesintisiz, hatasız ya da güvenli olacağına veya içeriğinin doğru ya da belirli bir amaca uygun olduğuna dair açık veya örtülü hiçbir garanti vermeyiz.
 - Astroloji, numeroloji, tarot ya da fal yorumlarının, uyum puanlarının veya yapay zekâ yanıtlarının doğru olacağına ya da gerçekleşeceğine dair söz vermeyiz.
 - Diğer kullanıcılarla iletişiminin, buluşmalarının ya da ilişkilerinin sonuçlarından sorumlu değiliz. Kullanıcıların kimliğini ya da geçmişini doğrulamayız. Tanımadığın insanlarla buluşurken dikkatli ol (bkz. Sorumluluk Reddi).
-- Yasaların izin verdiği en geniş ölçüde; dolaylı, arızi, özel ya da sonuç olarak doğan zararlardan veya kâr, veri ya da itibar kaybından sorumlu değiliz. Her durumda toplam sorumluluğumuz, talepten önceki 12 ayda Soulastra için ödediğin tutarla sınırlıdır.
+- Yasaların izin verdiği en geniş ölçüde; dolaylı, arızi, özel ya da sonuç olarak doğan zararlardan veya kâr, veri ya da itibar kaybından sorumlu değiliz. Her durumda toplam sorumluluğumuz, talepten önceki 12 ayda SoulAstra için ödediğin tutarla sınırlıdır.
 - Bu madde, yasalarca sınırlandırılamayan sorumlulukları (kasıt ya da ağır ihmal gibi) ve tüketici olarak sahip olduğun vazgeçilemez hakları etkilemez.
 
 ## 14. Tazminat
@@ -141,7 +141,7 @@ Bu Koşulları zaman zaman güncelleyebiliriz. Güncel sürüm her zaman uygulam
 
 ## 18. Uygulanacak hukuk ve uyuşmazlıklar
 
-Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın, Soulastra geliştiricisinin bulunduğu Türkiye Cumhuriyeti'nin yasalarına tabidir. Uyuşmazlıklarda geliştiricinin yerleşim yerindeki mahkemeler yetkilidir. Tüketiciysen, yaşadığın ülkenin yasalarının sağladığı vazgeçilemez korumalar ve oradaki mahkemelere veya tüketici kuruluşlarına başvurma hakkın saklıdır.
+Bu Koşullar, kanunlar ihtilafı kurallarına bakılmaksızın, SoulAstra geliştiricisinin bulunduğu Türkiye Cumhuriyeti'nin yasalarına tabidir. Uyuşmazlıklarda geliştiricinin yerleşim yerindeki mahkemeler yetkilidir. Tüketiciysen, yaşadığın ülkenin yasalarının sağladığı vazgeçilemez korumalar ve oradaki mahkemelere veya tüketici kuruluşlarına başvurma hakkın saklıdır.
 
 Bir sorun yaşarsan, resmî bir yola başvurmadan önce lütfen bize yaz. Çoğu sorunu hızla çözebiliriz.
 

@@ -2,15 +2,15 @@
 title: Delete your account and data
 ---
 
-# Soulastra: delete your account and data
+# SoulAstra: delete your account and data
 
 _Last updated: October 21, 2026_
 
-This page explains how to delete your **Soulastra** account (developer: ergun.app.dev), or only some of your data, and what happens to it.
+This page explains how to delete your **SoulAstra** account (developer: ergun.app.dev), or only some of your data, and what happens to it.
 
 ## Delete your account in the app
 
-1. Open **Soulastra**.
+1. Open **SoulAstra**.
 2. Go to **Profile › Delete My Account**.
 3. Confirm. Your account is deleted immediately.
 

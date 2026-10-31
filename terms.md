@@ -6,21 +6,21 @@ title: Terms of Use
 
 _Last updated: October 29, 2026_
 
-These Terms of Use ("Terms") govern your use of the Soulastra mobile app ("Soulastra", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
+These Terms of Use ("Terms") govern your use of the SoulAstra mobile app ("SoulAstra", "the app", "we", "us"). By downloading or using the app you agree to these Terms, our Privacy Policy and our Disclaimer. If you do not agree, please do not use the app.
 
 Please read these sections carefully: Premium subscriptions (section 6), community rules (section 8) and limitation of liability (section 13).
 
 ## 1. The service
 
-Soulastra offers features such as birth chart calculation, daily, weekly, monthly and yearly horoscopes, transits, an astro calendar, tarot, numerology, Human Design, dream interpretation, palm and coffee reading, an AI assistant called Luna, astrology lessons and quizzes, sign groups, friends and Soulmate (meeting people based on astrological compatibility).
+SoulAstra offers features such as birth chart calculation, daily, weekly, monthly and yearly horoscopes, transits, an astro calendar, tarot, numerology, Human Design, dream interpretation, palm and coffee reading, an AI assistant called Luna, astrology lessons and quizzes, sign groups, friends and Soulmate (meeting people based on astrological compatibility).
 
 Content in the app is **for entertainment and self-reflection** and is not professional advice. See the Disclaimer for details.
 
 We may add, change or remove features to improve the service.
 
-## 2. Who can use Soulastra
+## 2. Who can use SoulAstra
 
-- You must be **at least 13 years old** to use Soulastra. If your country sets a higher minimum age for digital services, you need the permission of a parent or legal guardian if you are below that age.
+- You must be **at least 13 years old** to use SoulAstra. If your country sets a higher minimum age for digital services, you need the permission of a parent or legal guardian if you are below that age.
 - **Soulmate and sign groups are open only to users aged 18 or older**, because they involve talking with people you do not know. Users aged 13 to 17 can use every other feature, including chatting with friends they add by code. Your age is calculated from the birth date you provide. We close accounts that give false information about their age.
 - People whose accounts were closed for breaking our rules may not create a new account.
 - You may not use the app if doing so is prohibited by the laws that apply to you.
@@ -35,7 +35,7 @@ We may add, change or remove features to improve the service.
 
 ## 4. Free use and allowances
 
-Many features of Soulastra are free. Some are offered to free users in limited amounts, for example a few questions in total to Luna and Ask the Tarot, or a daily number of Soulmate likes. Free allowances are tied to the device; creating new accounts to renew them breaches these Terms. We may change the scope and number of free allowances.
+Many features of SoulAstra are free. Some are offered to free users in limited amounts, for example a few questions in total to Luna and Ask the Tarot, or a daily number of Soulmate likes. Free allowances are tied to the device; creating new accounts to renew them breaches these Terms. We may change the scope and number of free allowances.
 
 ## 5. Premium
 
@@ -48,7 +48,7 @@ To prevent abuse and excessive cost, AI features have reasonable daily limits ev
 - **Plans:** Weekly, monthly and yearly subscription plans are offered. Current prices are shown in your local currency on the purchase screen and in the App Store or Google Play and may include applicable taxes.
 - **Payment:** On iPhone, payment is charged to your Apple ID account by Apple when you confirm the purchase. On Android, payment is charged to your Google Play account and processed by Google through Google Play Billing. We never have access to your payment details.
 - **Auto-renewal:** Your subscription **renews automatically** for the same period and price unless you cancel it **at least 24 hours before** the end of the current period. On the App Store, your Apple ID account is charged for renewal within the 24 hours before the current period ends; on Google Play, your Google Play account is charged when the new period begins.
-- **Managing and cancelling:** You can manage or cancel your subscription on your iPhone in Settings › [your name] › Subscriptions, or in your App Store account settings. On Android, open the Google Play Store app and tap your profile icon › Payments & subscriptions › Subscriptions › Soulastra › Cancel subscription, or visit play.google.com/store/account/subscriptions. Cancellation takes effect at the end of the current period, and you keep Premium until then.
+- **Managing and cancelling:** You can manage or cancel your subscription on your iPhone in Settings › [your name] › Subscriptions, or in your App Store account settings. On Android, open the Google Play Store app and tap your profile icon › Payments & subscriptions › Subscriptions › SoulAstra › Cancel subscription, or visit play.google.com/store/account/subscriptions. Cancellation takes effect at the end of the current period, and you keep Premium until then.
 - **Deleting your account does not cancel your subscription.** Because Apple or Google processes the payment, you must cancel the subscription with them separately.
 - **Refunds:** All purchases are processed by Apple (App Store) or Google (Google Play). You can request a refund from Apple at reportaproblem.apple.com under Apple's policies, or from Google under Google Play's refund policy (support.google.com/googleplay/answer/2479637). We cannot issue refunds directly. Your statutory consumer rights are not affected.
 - **Price changes:** If we change a subscription price, Apple or Google will notify you in advance and, where required, ask you to accept the new price.
@@ -57,9 +57,9 @@ To prevent abuse and excessive cost, AI features have reasonable daily limits ev
 
 ## 7. Apple App Store and Google Play
 
-If you downloaded the app from Google Play, your use of Google Play is also subject to the Google Play Terms of Service. These Terms are between you and Soulastra, not Google, and Google is not responsible for the app or its content.
+If you downloaded the app from Google Play, your use of Google Play is also subject to the Google Play Terms of Service. These Terms are between you and SoulAstra, not Google, and Google is not responsible for the app or its content.
 
-The rest of this section applies if you downloaded the app from the App Store. These Terms are between you and Soulastra, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
+The rest of this section applies if you downloaded the app from the App Store. These Terms are between you and SoulAstra, not Apple. We, not Apple, are responsible for the app and its content. You may use the app only as permitted by the App Store Terms of Service and on Apple devices you own or control. Apple's Licensed Application End User License Agreement (Standard EULA) applies together with these Terms: https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
 Apple and its subsidiaries are third-party beneficiaries of these Terms and may enforce them against you. Apple has no obligation to provide maintenance or support for the app. If the app fails to conform to any applicable warranty, you may notify Apple, and Apple may refund the purchase price, if any. To the maximum extent permitted by law, Apple has no other warranty obligation. Apple is not responsible for addressing claims relating to the app, including product liability claims, consumer protection claims or intellectual property infringement claims.
 
@@ -82,7 +82,7 @@ We have **zero tolerance** for these behaviors. In particular, child sexual abus
 
 ### Copyright complaints
 
-If you believe content shared in Soulastra (for example a photo on a Soulmate card or in a chat) infringes your copyright, email **ergun.app.dev@gmail.com** with the subject "Copyright complaint" and include:
+If you believe content shared in SoulAstra (for example a photo on a Soulmate card or in a chat) infringes your copyright, email **ergun.app.dev@gmail.com** with the subject "Copyright complaint" and include:
 
 - your name and contact details, and a statement that you are the owner or authorised to act on the owner's behalf;
 - a description of the copyrighted work;
@@ -111,7 +111,7 @@ Luna's answers, personal readings, reports and dream, palm and coffee readings a
 
 ## 12. Intellectual property
 
-The app's design, software, images, texts, tarot and zodiac illustrations, logo and the name "Soulastra" belong to us or our licensors and are protected by law. We grant you a limited, non-transferable, revocable license to use the app for your personal, non-commercial use, as long as you follow these Terms. You may not copy, modify, distribute, sell or reverse engineer the app or its content. You may share the app's share cards on social media for personal use.
+The app's design, software, images, texts, tarot and zodiac illustrations, logo and the name "SoulAstra" belong to us or our licensors and are protected by law. We grant you a limited, non-transferable, revocable license to use the app for your personal, non-commercial use, as long as you follow these Terms. You may not copy, modify, distribute, sell or reverse engineer the app or its content. You may share the app's share cards on social media for personal use.
 
 Location data comes from GeoNames (licensed under CC BY 4.0). Planet positions are calculated with open-source astronomical libraries.
 
@@ -120,7 +120,7 @@ Location data comes from GeoNames (licensed under CC BY 4.0). Planet positions a
 - The app is provided **"as is" and "as available"**. To the fullest extent permitted by law, we make no express or implied warranties that it will be uninterrupted, error-free or secure, or that its content is accurate or fit for a particular purpose.
 - We make no promise that astrological, numerological, tarot or fortune readings, compatibility scores or AI answers are accurate or will come true.
 - We are not responsible for the outcome of your communication, meetings or relationships with other users. We do not verify users' identity or background. Be careful when meeting people you do not know (see the Disclaimer).
-- To the fullest extent permitted by law, we are not liable for indirect, incidental, special or consequential damages, or for loss of profit, data or reputation. In any case, our total liability is limited to the amount you paid for Soulastra in the 12 months before the claim.
+- To the fullest extent permitted by law, we are not liable for indirect, incidental, special or consequential damages, or for loss of profit, data or reputation. In any case, our total liability is limited to the amount you paid for SoulAstra in the 12 months before the claim.
 - This section does not affect liability that cannot be limited by law (such as for intent or gross negligence) or the mandatory rights you have as a consumer.
 
 ## 14. Indemnity
@@ -141,7 +141,7 @@ We may update these Terms from time to time. The current version is always avail
 
 ## 18. Governing law and disputes
 
-These Terms are governed by the laws of the Republic of Türkiye, where Soulastra's developer is established, without regard to conflict-of-law rules. Disputes are subject to the courts at the developer's place of residence. If you are a consumer, you keep the mandatory protections of the laws of the country where you live and your right to bring claims before the courts or consumer bodies there.
+These Terms are governed by the laws of the Republic of Türkiye, where SoulAstra's developer is established, without regard to conflict-of-law rules. Disputes are subject to the courts at the developer's place of residence. If you are a consumer, you keep the mandatory protections of the laws of the country where you live and your right to bring claims before the courts or consumer bodies there.
 
 If you have a problem, please write to us before taking formal action. We can resolve most issues quickly.
 
