@@ -2,15 +2,15 @@
 title: Hesabını ve verilerini sil
 ---
 
-# AstroLuna: hesabını ve verilerini sil
+# Soulastra: hesabını ve verilerini sil
 
 _Son güncelleme: 21 Ekim 2026_
 
-Bu sayfa **AstroLuna** hesabını (geliştirici: ergun.app.dev) ya da yalnızca bazı verilerini nasıl sileceğini ve verilere ne olduğunu anlatır.
+Bu sayfa **Soulastra** hesabını (geliştirici: ergun.app.dev) ya da yalnızca bazı verilerini nasıl sileceğini ve verilere ne olduğunu anlatır.
 
 ## Uygulamadan hesabını sil
 
-1. **AstroLuna**'yı aç.
+1. **Soulastra**'yı aç.
 2. **Profil › Hesabımı Sil**'e git.
 3. Onayla. Hesabın hemen silinir.
 

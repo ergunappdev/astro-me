@@ -10,7 +10,7 @@ Bir sorun mu yaşıyorsun, aklında bir fikir mi var? Bize yaz; genellikle 1–2
 
 ## İletişim
 
-E-posta: [ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com?subject=AstroLuna%20Support)
+E-posta: [ergun.app.dev@gmail.com](mailto:ergun.app.dev@gmail.com?subject=Soulastra%20Support)
 
 Uygulamanın içinden de yazabilirsin: Profil › Destek, mail uygulamanı hazır bir e-postayla açar. Hesabını hızlıca bulabilmemiz için hesap kimliğini kendiliğinden ekler. Adını, doğum bilgilerini ya da mesajlarını asla eklemez.
 
@@ -38,7 +38,7 @@ Profil › Hesabımı Sil'e git. Hesabın ve sunucularımızdaki bütün veriler
 
 #### Aboneliğimi nasıl iptal ederim?
 
-iPhone'unda Ayarlar › [adın] › Abonelikler › AstroLuna'ya git ve Aboneliği İptal Et'e dokun. Bir sonraki ödemenin alınmaması için mevcut dönemin bitiminden en az 24 saat önce iptal et. Ödediğin dönemin sonuna kadar Premium'u kullanmaya devam edersin.
+iPhone'unda Ayarlar › [adın] › Abonelikler › Soulastra'ya git ve Aboneliği İptal Et'e dokun. Bir sonraki ödemenin alınmaması için mevcut dönemin bitiminden en az 24 saat önce iptal et. Ödediğin dönemin sonuna kadar Premium'u kullanmaya devam edersin.
 
 #### Nasıl iade alırım?
 
@@ -56,7 +56,7 @@ Uygulamanın çoğu ücretsizdir: genel günlük, haftalık ve aylık burç yoru
 
 #### Yorumum neden başka bir uygulamadakinden farklı?
 
-Uygulamalar farklı ev sistemleri, zodyak sistemleri ve yorum tarzları kullanır; kişisel yorumlar da kesin doğum saatine ve yerine bağlıdır. AstroLuna gezegen konumlarını astronomik olarak hesaplar ve yorumları senin haritana göre yazar.
+Uygulamalar farklı ev sistemleri, zodyak sistemleri ve yorum tarzları kullanır; kişisel yorumlar da kesin doğum saatine ve yerine bağlıdır. Soulastra gezegen konumlarını astronomik olarak hesaplar ve yorumları senin haritana göre yazar.
 
 #### Yorumlar doğru mu?
 
@@ -84,7 +84,7 @@ Ruh Eşi ve burç grupları, tanımadığın kişilerle konuştuğun için 18 ya
 
 #### Bildirimleri nasıl açar ya da kapatırım?
 
-Her bildirim türünü açmak ya da kapatmak için Profil › Hesap ve tercihler'e git. Bütün bildirimleri kapatmak için iPhone Ayarlar › Bildirimler › AstroLuna'ya git.
+Her bildirim türünü açmak ya da kapatmak için Profil › Hesap ve tercihler'e git. Bütün bildirimleri kapatmak için iPhone Ayarlar › Bildirimler › Soulastra'ya git.
 
 ### Gizlilik
 

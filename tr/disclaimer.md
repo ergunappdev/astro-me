@@ -6,11 +6,11 @@ title: Sorumluluk Reddi
 
 _Son güncelleme: 13 Ekim 2026_
 
-AstroLuna eğlence, merak ve kendini tanıma için yapıldı. Uygulamanın içeriklerini bilinçli kullanabilmen için lütfen bu sayfayı oku.
+Soulastra eğlence, merak ve kendini tanıma için yapıldı. Uygulamanın içeriklerini bilinçli kullanabilmen için lütfen bu sayfayı oku.
 
 ## 1. Eğlence ve kişisel keşif için
 
-Astroloji, tarot, numeroloji, Human Design, rüya yorumu, el falı ve kahve falı manevi ve kültürel geleneklerdir. Geleceği tahmin etmenin ya da kişiliği açıklamanın **bilimsel olarak kanıtlanmış** yolları değildir. AstroLuna'daki her yorum, öngörü, puan ve öneri eğlence için ve kendini tanımana yardımcı olmak amacıyla sunulur. Hiçbiri bir gerçeğin ifadesi, bir söz ya da mutlaka gerçekleşecek bir tahmin değildir.
+Astroloji, tarot, numeroloji, Human Design, rüya yorumu, el falı ve kahve falı manevi ve kültürel geleneklerdir. Geleceği tahmin etmenin ya da kişiliği açıklamanın **bilimsel olarak kanıtlanmış** yolları değildir. Soulastra'daki her yorum, öngörü, puan ve öneri eğlence için ve kendini tanımana yardımcı olmak amacıyla sunulur. Hiçbiri bir gerçeğin ifadesi, bir söz ya da mutlaka gerçekleşecek bir tahmin değildir.
 
 ## 2. Profesyonel tavsiye değildir
 
@@ -29,7 +29,7 @@ Luna'nın yanıtları, kişisel yorumlar, yıllık rapor ve rüya, el ve kahve f
 
 ## 4. Hesaplamalar ve doğruluk
 
-AstroLuna'daki gezegen konumları astronomik olarak hesaplanır ve oldukça hassastır. Ancak yorumlar senin verdiğin bilgilere dayanır: doğum saatin bilinmiyorsa ya da yanlışsa yükselen burcun, evlerin ve bazı yorumlar sana uymayabilir. AstroLuna ile diğer uygulamalar ya da astrologlar arasındaki küçük farklar; farklı ev sistemlerinden, zodyak sistemlerinden ve yorum geleneklerinden kaynaklanabilir.
+Soulastra'daki gezegen konumları astronomik olarak hesaplanır ve oldukça hassastır. Ancak yorumlar senin verdiğin bilgilere dayanır: doğum saatin bilinmiyorsa ya da yanlışsa yükselen burcun, evlerin ve bazı yorumlar sana uymayabilir. Soulastra ile diğer uygulamalar ya da astrologlar arasındaki küçük farklar; farklı ev sistemlerinden, zodyak sistemlerinden ve yorum geleneklerinden kaynaklanabilir.
 
 ## 5. El ve kahve falı
 
@@ -45,7 +45,7 @@ El ve kahve falı yorumları, gönderdiğin fotoğraflardan yapay zekâ ile üre
 
 ## 7. Zor bir dönemden geçiyorsan
 
-AstroLuna bir kriz hizmeti değildir. Kendine ya da başkasına zarar vermeyi düşünüyorsan veya tehlikedeysen hemen bulunduğun ülkenin acil durum numarasını ara (örneğin Avrupa ve Türkiye'de 112, ABD ve Kanada'da 911, Birleşik Krallık'ta 999). Ülkendeki ücretsiz ve gizli destek hatlarını findahelpline.com adresinde bulabilirsin.
+Soulastra bir kriz hizmeti değildir. Kendine ya da başkasına zarar vermeyi düşünüyorsan veya tehlikedeysen hemen bulunduğun ülkenin acil durum numarasını ara (örneğin Avrupa ve Türkiye'de 112, ABD ve Kanada'da 911, Birleşik Krallık'ta 999). Ülkendeki ücretsiz ve gizli destek hatlarını findahelpline.com adresinde bulabilirsin.
 
 ## 8. Üçüncü taraf içerik ve hizmetleri
 
@@ -53,7 +53,7 @@ Uygulama üçüncü taraf hizmetlerden söz edebilir ya da onlara dayanabilir. B
 
 ## 9. Garanti yoktur
 
-AstroLuna'yı kullanmak aşk, kariyer, para, sağlık ya da hayatın başka bir alanında herhangi bir sonucu garanti etmez. Yasaların izin verdiği en geniş ölçüde, uygulamanın içeriğine dayanarak aldığın kararlardan ya da yaptığın şeylerden sorumlu değiliz. Ayrıntılar için Kullanım Koşulları'na bak.
+Soulastra'yı kullanmak aşk, kariyer, para, sağlık ya da hayatın başka bir alanında herhangi bir sonucu garanti etmez. Yasaların izin verdiği en geniş ölçüde, uygulamanın içeriğine dayanarak aldığın kararlardan ya da yaptığın şeylerden sorumlu değiliz. Ayrıntılar için Kullanım Koşulları'na bak.
 
 ## 10. İletişim
 

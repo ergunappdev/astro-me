@@ -1,10 +1,10 @@
 ---
-title: AstroLuna
+title: Soulastra
 ---
 
-# AstroLuna
+# Soulastra
 
-AstroLuna, doğum haritanı gerçek gökyüzüne göre hesaplar ve onu günlük rehberliğe dönüştürür: burç yorumları, transitler, tarot, numeroloji, Human Design, rüya ve fal yorumları, yapay zekâ astroloji asistanın Luna ve astrolojik uyuma göre insanlarla tanışabileceğin Ruh Eşi.
+Soulastra, doğum haritanı gerçek gökyüzüne göre hesaplar ve onu günlük rehberliğe dönüştürür: burç yorumları, transitler, tarot, numeroloji, Human Design, rüya ve fal yorumları, yapay zekâ astroloji asistanın Luna ve astrolojik uyuma göre insanlarla tanışabileceğin Ruh Eşi.
 
 - [Gizlilik Politikası](privacy)
 - [Kullanım Koşulları](terms)

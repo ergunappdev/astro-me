@@ -6,13 +6,13 @@ title: Gizlilik Politikası
 
 _Son güncelleme: 31 Ekim 2026_
 
-AstroLuna'yı kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
+Soulastra'yı kullandığında bize doğum bilgilerin gibi kişisel veriler emanet ediyorsun. Bu politika neleri topladığımızı, neden topladığımızı, kimlerle paylaştığımızı, ne kadar sakladığımızı ve hangi haklara sahip olduğunu anlatır. Verilerini satmıyoruz, reklam için kullanmıyoruz ve seni başka uygulamalarda ya da sitelerde izlemiyoruz.
 
 Bu politika; AB ve Birleşik Krallık Genel Veri Koruma Tüzüğü (GDPR), Kaliforniya Tüketici Gizliliği Yasası (CCPA/CPRA) gibi ABD eyalet yasaları, Türkiye'nin Kişisel Verilerin Korunması Kanunu (KVKK) ve dünyadaki benzer yasaların gerekliliklerini karşılayacak şekilde hazırlanmıştır. Bölgelere özel bilgiler 12. maddededir.
 
 ## 1. Biz kimiz
 
-AstroLuna mobil uygulaması ("AstroLuna", "uygulama", "biz") kişisel verilerinin veri sorumlusudur. Gizlilikle ilgili her soru ve talebin için bize ergun.app.dev@gmail.com adresinden ulaşabilirsin.
+Soulastra mobil uygulaması ("Soulastra", "uygulama", "biz") kişisel verilerinin veri sorumlusudur. Gizlilikle ilgili her soru ve talebin için bize ergun.app.dev@gmail.com adresinden ulaşabilirsin.
 
 ## 2. Kısaca
 
@@ -168,7 +168,7 @@ Taleplerini ergun.app.dev@gmail.com adresine gönder. Kimliğini doğrulayabilme
 
 ## 13. Çocuklar
 
-AstroLuna 13 yaşından küçükler için tasarlanmamıştır ve bu yaştaki çocuklardan bilerek bilgi toplamayız. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa (bazı AB ülkelerinde 16'ya kadar) ve sen bu yaşın altındaysan, uygulamayı kullanmak için ebeveyninin ya da velinin iznine ihtiyacın vardır. Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır; yaş, doğum tarihinden hesaplanır. 18 yaşından küçük kullanıcılar yalnızca kodla eklediği arkadaşlarıyla yazışabilir. 13 yaşından küçük bir çocuğun bize bilgi verdiğini öğrenirsen bize yaz, bilgileri sileriz.
+Soulastra 13 yaşından küçükler için tasarlanmamıştır ve bu yaştaki çocuklardan bilerek bilgi toplamayız. Ülken dijital hizmetler için daha yüksek bir yaş sınırı belirliyorsa (bazı AB ülkelerinde 16'ya kadar) ve sen bu yaşın altındaysan, uygulamayı kullanmak için ebeveyninin ya da velinin iznine ihtiyacın vardır. Ruh Eşi ve burç grupları yalnızca 18 yaş ve üzeri kullanıcılara açıktır; yaş, doğum tarihinden hesaplanır. 18 yaşından küçük kullanıcılar yalnızca kodla eklediği arkadaşlarıyla yazışabilir. 13 yaşından küçük bir çocuğun bize bilgi verdiğini öğrenirsen bize yaz, bilgileri sileriz.
 
 ## 14. Bildirimler
 
